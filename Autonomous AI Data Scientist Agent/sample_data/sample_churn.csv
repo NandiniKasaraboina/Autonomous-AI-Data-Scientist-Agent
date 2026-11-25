@@ -1,0 +1,1521 @@
+customer_id,age,gender,tenure_months,monthly_charges,contract,support_calls,signup_date,churn
+C100000,76.0,Male,35.0,33.09,Month-to-month,1,2020-01-23,Yes
+C100001,56.0,Male,33.0,10.74,Month-to-month,1,2019-05-15,No
+C100002,,Female,43.0,20.37,Month-to-month,1,2020-06-25,No
+C100003,73.0,Female,47.0,47.39,Month-to-month,1,2022-05-13,Yes
+C100004,53.0,Female,18.0,15.97,Month-to-month,2,2020-02-28,No
+C100005,66.0,Male,37.0,36.41,Month-to-month,1,2019-05-21,No
+C100006,69.0,Male,35.0,29.88,One year,1,2021-09-03,No
+C100007,31.0,Female,12.0,13.15,Month-to-month,2,2022-03-12,No
+C100008,21.0,Female,36.0,42.32,Month-to-month,0,2023-06-09,No
+C100009,36.0,Female,10.0,,One year,3,2022-07-14,No
+C100010,35.0,Male,14.0,19.33,Month-to-month,2,2019-06-08,Yes
+C100011,72.0,Male,21.0,33.84,Two year,1,2020-01-02,No
+C100012,74.0,Male,,47.22,One year,1,2022-07-13,No
+C100013,18.0,Male,4.0,30.43,Month-to-month,2,2019-07-28,Yes
+C100014,48.0,Male,61.0,29.23,Month-to-month,5,2023-01-12,No
+C100015,68.0,Male,16.0,,One year,4,2019-08-31,Yes
+C100016,26.0,Female,68.0,54.4,Month-to-month,1,2021-07-26,No
+C100017,67.0,Female,10.0,33.28,One year,3,2022-03-28,No
+C100018,25.0,Female,44.0,,Two year,0,2020-09-07,No
+C100019,47.0,Male,34.0,38.63,One year,4,2022-09-06,No
+C100020,,Female,17.0,24.75,Month-to-month,3,2023-11-24,Yes
+C100021,36.0,Female,26.0,26.08,Two year,3,2023-07-14,No
+C100022,39.0,Female,29.0,20.13,Month-to-month,2,2021-05-07,No
+C100023,35.0,Female,42.0,23.53,Month-to-month,0,2020-08-07,No
+C100024,62.0,Female,53.0,25.87,Month-to-month,0,2019-09-29,No
+C100025,33.0,Male,20.0,22.05,One year,1,2019-06-26,No
+C100026,79.0,Male,28.0,,Two year,2,2019-08-06,No
+C100027,45.0,Female,3.0,28.34,,3,2022-02-07,Yes
+C100028,47.0,Female,19.0,21.71,Month-to-month,1,2022-11-11,No
+C100029,49.0,Male,24.0,25.23,Two year,1,2023-02-14,Yes
+C100030,54.0,Male,,25.22,Month-to-month,1,2023-06-15,No
+C100031,52.0,Male,54.0,52.65,Month-to-month,1,2022-07-30,Yes
+C100032,49.0,Female,55.0,41.57,One year,4,2021-11-22,No
+C100033,79.0,Male,19.0,43.59,Month-to-month,1,2021-06-01,Yes
+C100034,68.0,Female,16.0,32.77,Month-to-month,N/A,2019-10-05,No
+C100035,67.0,Female,29.0,43.6,One year,1,2020-04-28,No
+C100036,61.0,Male,31.0,26.82,One year,1,2019-10-08,No
+C100037,56.0,Male,54.0,43.37,,2,2022-08-05,No
+C100038,39.0,Female,62.0,65.66,Month-to-month,2,2020-11-19,No
+C100039,79.0,Female,29.0,,Two year,0,2023-03-22,No
+C100040,46.0,Female,16.0,36.56,One year,2,2022-09-10,Yes
+C100041,31.0,Female,63.0,55.88,Month-to-month,1,2020-01-30,No
+C100042,70.0,Female,39.0,35.91,Month-to-month,2,2021-03-07,No
+C100043,27.0,Female,66.0,62.45,,0,2022-07-02,No
+C100044,71.0,Female,28.0,41.2,Month-to-month,0,2019-02-21,No
+C100045,55.0,Male,23.0,20.2,Month-to-month,1,2022-10-20,No
+C100046,25.0,Female,5.0,40.67,Two year,3,2021-08-02,Yes
+C100047,20.0,Female,53.0,42.02,,0,2023-11-30,No
+C100048,45.0,Male,36.0,23.89,Month-to-month,1,2023-03-12,No
+C100049,20.0,Female,18.0,34.08,Month-to-month,1,2020-11-06,Yes
+C100050,26.0,Male,32.0,43.14,,0,2019-01-06,Yes
+C100051,49.0,Male,10.0,24.5,One year,2,2020-12-08,No
+C100052,78.0,Male,69.0,45.33,,1,2021-12-25,No
+C100053,46.0,Male,32.0,15.09,Two year,3,2019-03-21,No
+C100054,68.0,Female,22.0,46.87,Month-to-month,3,2019-04-03,Yes
+C100055,74.0,Female,43.0,44.74,One year,0,2019-10-15,No
+C100056,69.0,Male,57.0,44.54,Month-to-month,0,2021-04-12,No
+C100057,57.0,Female,67.0,36.43,One year,3,2022-09-02,No
+C100058,45.0,Male,49.0,33.79,One year,3,2019-02-05,No
+C100059,49.0,Male,11.0,28.91,,0,2020-05-05,No
+C100060,34.0,Female,30.0,33.21,Month-to-month,0,2023-10-03,No
+C100061,48.0,Male,51.0,18.09,Month-to-month,2,2023-06-29,No
+C100062,41.0,Female,59.0,45.29,One year,1,2023-07-04,No
+C100063,33.0,Female,34.0,60.08,Two year,1,2020-07-27,Yes
+C100064,79.0,Male,61.0,19.37,Month-to-month,2,2022-05-21,No
+C100065,18.0,Male,10.0,48.2,Month-to-month,2,2022-12-04,No
+C100066,24.0,Male,25.0,46.29,Month-to-month,1,2021-11-15,Yes
+C100067,29.0,Female,70.0,54.86,Two year,4,2020-10-10,No
+C100068,78.0,Female,14.0,38.27,Month-to-month,1,2019-12-28,Yes
+C100069,60.0,Female,50.0,22.86,Month-to-month,1,2022-09-23,No
+C100070,72.0,Female,15.0,26.17,Month-to-month,3,2023-02-26,Yes
+C100071,30.0,Male,10.0,38.02,Two year,1,2021-02-28,No
+C100072,62.0,Male,12.0,21.58,Month-to-month,1,2022-06-15,No
+C100073,40.0,Female,65.0,35.21,One year,1,2020-01-16,No
+C100074,48.0,Male,70.0,42.18,One year,1,2021-04-30,No
+C100075,18.0,Female,8.0,32.83,Month-to-month,2,2020-01-05,Yes
+C100076,56.0,Female,51.0,51.19,One year,2,2020-01-04,No
+C100077,69.0,Female,7.0,12.78,,1,2020-05-30,No
+C100078,59.0,Male,59.0,,Month-to-month,4,2021-12-14,Yes
+C100079,27.0,Female,24.0,29.33,Month-to-month,1,2019-08-03,No
+C100080,51.0,Male,4.0,28.08,Month-to-month,1,2020-01-26,Yes
+C100081,34.0,Female,67.0,39.02,One year,0,2023-04-10,No
+C100082,77.0,Female,66.0,13.25,Month-to-month,0,2019-03-15,No
+C100083,72.0,Female,3.0,20.84,Month-to-month,1,2023-07-18,Yes
+C100084,29.0,Female,28.0,32.43,,1,2019-01-06,No
+C100085,49.0,Male,66.0,35.23,Month-to-month,2,2022-12-04,No
+C100086,76.0,Male,25.0,,Month-to-month,4,2023-09-13,Yes
+C100087,70.0,Male,44.0,21.71,One year,2,2019-01-09,No
+C100088,61.0,Male,62.0,27.7,,1,2020-03-20,No
+C100089,57.0,Female,5.0,36.31,Month-to-month,3,2023-05-08,Yes
+C100090,20.0,Female,35.0,46.69,Month-to-month,0,2019-09-14,No
+C100091,63.0,Male,41.0,48.15,One year,2,2022-12-01,No
+C100092,47.0,Male,66.0,43.13,Month-to-month,0,2021-11-03,No
+C100093,23.0,Female,33.0,35.83,Two year,1,2023-02-24,No
+C100094,33.0,Male,60.0,37.32,One year,0,2020-11-30,No
+C100095,51.0,Female,41.0,44.94,Month-to-month,0,2022-02-10,No
+C100096,,Female,31.0,38.98,Two year,0,2022-10-27,No
+C100097,49.0,Female,53.0,35.91,Month-to-month,0,2020-01-10,No
+C100098,56.0,Female,61.0,,Month-to-month,0,2019-03-14,No
+C100099,72.0,Female,49.0,33.54,Two year,0,2020-06-20,No
+C100100,60.0,Female,44.0,27.25,Month-to-month,2,2022-05-05,No
+C100101,40.0,Female,71.0,61.16,Month-to-month,2,2020-12-01,No
+C100102,57.0,Male,43.0,,,0,2023-08-24,No
+C100103,,Female,12.0,11.97,One year,0,2019-11-29,No
+C100104,24.0,Male,66.0,49.9,One year,4,2022-08-13,No
+C100105,21.0,Female,58.0,59.87,Month-to-month,1,2019-02-20,No
+C100106,58.0,Female,27.0,34.7,Month-to-month,2,2022-04-01,No
+C100107,42.0,Female,30.0,27.59,Month-to-month,1,2023-09-13,No
+C100108,55.0,Female,48.0,27.53,Month-to-month,3,2019-02-23,No
+C100109,38.0,Male,56.0,37.05,Month-to-month,0,2020-12-01,No
+C100110,31.0,male,50.0,17.79,One year,1,2023-01-08,No
+C100111,27.0,Male,64.0,40.82,Month-to-month,0,2021-12-30,No
+C100112,41.0,Female,6.0,30.01,Month-to-month,2,2022-05-09,Yes
+C100113,68.0,Female,71.0,36.37,Two year,2,2019-07-13,No
+C100114,42.0,Female,35.0,34.35,Month-to-month,0,2022-06-22,No
+C100115,41.0, Male ,19.0,38.23,Two year,2,2023-03-24,No
+C100116,53.0,Male,16.0,31.48,One year,1,2019-12-18,No
+C100117,78.0,Female,33.0,30.11,One year,1,2022-09-14,No
+C100118,,Male,22.0,48.48,Month-to-month,0,2021-02-12,Yes
+C100119,,Male,67.0,,One year,1,2019-03-14,No
+C100120,,Female,,27.16,Month-to-month,1,2019-04-23,No
+C100121,55.0,Female,68.0,47.93,Month-to-month,0,2019-12-29,No
+C100122,45.0,Male,48.0,,Two year,1,2019-02-21,No
+C100123,57.0,Male,27.0,19.3,Month-to-month,2,2022-09-01,No
+C100124,51.0,Female,29.0,29.45,Month-to-month,2,2023-12-01,No
+C100125,59.0,Female,67.0,38.4,One year,1,2019-04-13,No
+C100126,77.0,Female,47.0,13.88,Month-to-month,2,2022-10-02,No
+C100127,27.0,Female,,41.93,Month-to-month,1,2019-02-12,No
+C100128,52.0,Male,54.0,33.29,Two year,0,2022-05-04,No
+C100129,45.0,Female,27.0,23.59,Month-to-month,1,2019-08-02,No
+C100130,40.0,Female,16.0,7.89,Month-to-month,3,2019-11-15,No
+C100131,32.0,Male,54.0,32.55,Two year,0,2019-09-13,No
+C100132,21.0,Male,7.0,36.69,Month-to-month,0,2020-11-21,No
+C100133,42.0,Male,34.0,31.25,Month-to-month,2,2022-10-24,Yes
+C100134,,Male,30.0,17.33,Two year,0,2019-10-28,No
+C100135,23.0,Female,32.0,51.1,Month-to-month,0,2022-11-09,No
+C100136,43.0,Male,16.0,12.3,Two year,2,2023-05-08,No
+C100137,78.0,Male,28.0,26.1,Two year,1,2021-10-26,No
+C100138,76.0,Female,9.0,,Two year,1,2019-12-29,No
+C100139,31.0,Male,31.0,22.18,Month-to-month,3,2020-07-03,Yes
+C100140,18.0,Male,53.0,45.65,Month-to-month,2,2020-10-08,No
+C100141,59.0,Female,10.0,950.0,One year,2,2022-11-11,Yes
+C100142,18.0,Male,11.0,34.35,Two year,1,2023-06-04,Yes
+C100143,36.0,Female,5.0,18.45,Month-to-month,2,2022-02-15,Yes
+C100144,48.0,Female,60.0,40.27,Month-to-month,2,2023-09-08,No
+C100145,72.0,Male,54.0,46.98,Month-to-month,0,2019-04-21,No
+C100146,23.0,Female,4.0,13.55,Month-to-month,1,2023-01-04,Yes
+C100147,59.0,Female,41.0,23.79,Month-to-month,1,2019-12-06,No
+C100148,,Male,34.0,19.85,,1,2020-08-29,No
+C100149,26.0,Female,48.0,38.26,One year,2,2022-06-05,No
+C100150,70.0,Male,27.0,19.32,Month-to-month,1,2019-03-28,No
+C100151,70.0,Male,,28.48,Month-to-month,3,2021-10-16,No
+C100152,47.0,Male,37.0,34.19,Month-to-month,1,2023-12-02,No
+C100153,76.0,Female,17.0,15.98,Month-to-month,1,2020-12-10,No
+C100154,55.0,Male,36.0,32.06,Month-to-month,1,2023-12-03,No
+C100155,74.0,Female,17.0,29.21,Two year,2,2021-08-12,No
+C100156,77.0,Female,36.0,23.32,Month-to-month,0,2021-03-20,No
+C100157,53.0,Female,20.0,27.34,Month-to-month,0,2020-03-13,No
+C100158,35.0,Female,31.0,46.08,One year,1,2023-04-04,No
+C100159,27.0,Male,22.0,44.9,Two year,0,2021-11-21,No
+C100160,52.0,Male,38.0,,One year,0,2022-03-10,No
+C100161,29.0,Female,55.0,50.83,One year,2,2019-09-06,No
+C100162,64.0,Male,49.0,25.32,Month-to-month,2,2022-10-08,Yes
+C100163,75.0,Female,27.0,30.87,Month-to-month,4,2023-11-12,No
+C100164,33.0,Male,36.0,39.62,Month-to-month,4,2020-04-15,No
+C100165,52.0,Male,23.0,18.52,Two year,1,2023-01-22,No
+C100166,,Male,23.0,39.76,Two year,1,2021-03-19,Yes
+C100167,29.0,Female,46.0,60.17,Month-to-month,3,2021-06-13,No
+C100168,41.0,Male,56.0,,Two year,3,2022-06-16,No
+C100169,72.0,Male,,26.12,One year,2,2023-10-27,Yes
+C100170,78.0,Female,19.0,15.24,One year,4,2022-08-19,No
+C100171,57.0,Female,8.0,14.03,Month-to-month,1,2022-05-05,Yes
+C100172,54.0,Male,71.0,36.07,Month-to-month,0,2022-04-23,No
+C100173,53.0,Female,50.0,56.76,Month-to-month,4,2021-11-07,No
+C100174,21.0,Male,12.0,34.51,Two year,6,2021-12-04,Yes
+C100175,41.0,Female,54.0,30.9,Two year,0,2022-03-10,No
+C100176,78.0,Male,22.0,20.97,Two year,0,2019-03-03,No
+C100177,43.0,Female,22.0,24.94,Two year,1,2022-06-17,Yes
+C100178,31.0,Female,35.0,37.06,Two year,1,2019-06-25,No
+C100179,32.0,Male,46.0,35.69,Month-to-month,N/A,2023-11-18,No
+C100180,62.0,Male,47.0,54.68,One year,3,2022-11-18,No
+C100181,20.0,Male,3.0,38.04,Month-to-month,2,2022-11-12,Yes
+C100182,78.0,Female,53.0,50.37,One year,4,2023-10-12,Yes
+C100183,72.0,Female,29.0,,Month-to-month,0,2020-03-03,No
+C100184,53.0,Male,66.0,45.86,Two year,0,2019-11-19,No
+C100185,46.0,male,42.0,18.16,Two year,0,2019-04-17,No
+C100186,65.0,Male,67.0,38.83,Month-to-month,0,2021-10-04,No
+C100187,51.0,Male,18.0,24.71,One year,0,2023-07-15,No
+C100188,47.0,Female,48.0,31.97,Two year,2,2021-02-04,No
+C100189,37.0,Male,25.0,5.97,Month-to-month,1,2022-08-21,Yes
+C100190,45.0,Female,61.0,47.11,One year,3,2019-07-06,No
+C100191,64.0,Female,44.0,29.33,Month-to-month,2,2021-11-14,No
+C100192,21.0,Female,54.0,,One year,0,2020-03-26,No
+C100193,19.0,Male,42.0,45.05,Two year,2,2021-05-30,No
+C100194,62.0,Male,55.0,34.22,,2,2022-01-15,No
+C100195,41.0,Female,11.0,27.37,Month-to-month,1,2023-09-06,Yes
+C100196,67.0,Female,17.0,12.39,One year,1,2022-06-22,No
+C100197,,Female,51.0,40.99,One year,0,2019-03-17,No
+C100198,74.0,Male,,27.11,Month-to-month,3,2021-06-04,Yes
+C100199,25.0,Female,6.0,38.26,Month-to-month,1,2019-10-07,Yes
+C100200,43.0,Male,40.0,28.23,Month-to-month,1,2023-01-14,No
+C100201,77.0, Male ,69.0,34.96,Month-to-month,1,2020-07-24,No
+C100202,24.0,Male,23.0,33.56,Month-to-month,1,2022-03-09,Yes
+C100203,58.0,Female,15.0,23.92,One year,1,2023-12-01,No
+C100204,63.0,Male,52.0,47.41,Two year,3,2022-04-07,No
+C100205,44.0,Male,19.0,15.12,Month-to-month,2,2022-06-04,No
+C100206,22.0,Female,56.0,,One year,2,2021-07-04,Yes
+C100207,50.0,Male,15.0,32.94,One year,N/A,2021-12-17,No
+C100208,44.0,Male,14.0,19.67,One year,1,2023-09-18,No
+C100209,72.0,Female,71.0,49.13,One year,2,2020-09-08,No
+C100210,60.0,Male,43.0,18.24,Month-to-month,2,2019-01-19,No
+C100211,39.0, Male ,21.0,8.98,Two year,0,2019-10-12,No
+C100212,21.0,Female,33.0,32.0,Month-to-month,1,2020-09-13,No
+C100213,54.0,Female,43.0,28.8,Month-to-month,0,2019-01-30,No
+C100214,35.0,Female,4.0,17.95,Month-to-month,2,2022-05-08,Yes
+C100215,60.0,Female,71.0,36.15,One year,0,2019-09-13,No
+C100216,71.0,Male,34.0,31.19,One year,4,2023-01-01,Yes
+C100217,40.0,Male,68.0,19.05,Month-to-month,2,2019-11-09,No
+C100218,74.0,Female,,42.05,Two year,3,2020-12-09,No
+C100219,50.0,Male,4.0,7.01,One year,3,2021-07-08,No
+C100220,50.0,Female,57.0,1200.0,,2,2023-03-10,No
+C100221,65.0,Female,38.0,27.27,Month-to-month,1,2020-10-20,No
+C100222,66.0,Female,63.0,,Month-to-month,4,2023-02-05,Yes
+C100223,,male,43.0,19.19,Month-to-month,1,2023-10-27,No
+C100224,79.0,Female,20.0,15.94,One year,1,2019-06-22,No
+C100225,27.0,Male,50.0,49.88,Month-to-month,4,2023-07-17,No
+C100226,43.0,Female,21.0,32.2,Month-to-month,1,2019-12-10,No
+C100227,75.0,Male,24.0,32.84,Month-to-month,0,2021-09-26,No
+C100228,37.0,Male,42.0,22.66,Month-to-month,0,2022-11-16,No
+C100229,18.0,Male,24.0,34.28,Month-to-month,2,2019-10-26,No
+C100230,53.0, Male ,67.0,950.0,,0,2021-05-10,No
+C100231,64.0,Male,1.0,24.8,Two year,2,2020-07-25,No
+C100232,64.0,Female,28.0,8.03,Month-to-month,3,2019-08-11,No
+C100233,68.0,Male,3.0,33.28,,2,2019-02-18,Yes
+C100234,57.0,Female,52.0,30.75,Two year,1,2020-04-14,No
+C100235,26.0,Male,40.0,39.16,Month-to-month,0,2022-04-06,No
+C100236,70.0,Male,11.0,26.69,One year,0,2019-02-02,No
+C100237,43.0,Male,6.0,,One year,2,2020-11-24,No
+C100238,70.0,Female,53.0,,Month-to-month,2,2021-10-12,No
+C100239,,Male,15.0,35.03,Two year,2,2023-07-26,Yes
+C100240,78.0,Female,60.0,39.34,Two year,2,2020-11-28,No
+C100241,18.0,Male,24.0,54.5,Month-to-month,2,2020-07-23,Yes
+C100242,71.0,Male,39.0,44.15,,2,2019-09-11,No
+C100243,56.0,Male,6.0,20.81,Month-to-month,1,2023-03-13,Yes
+C100244,48.0, Male ,37.0,45.49,Month-to-month,0,2023-10-24,No
+C100245,67.0,Male,3.0,22.55,Month-to-month,0,2020-12-10,Yes
+C100246,77.0,Male,16.0,25.67,Month-to-month,0,2022-11-15,No
+C100247,49.0,Male,66.0,30.59,Month-to-month,1,2022-03-22,No
+C100248,23.0,Male,70.0,53.11,Month-to-month,3,2023-01-05,Yes
+C100249,63.0,Female,31.0,37.08,Month-to-month,1,2020-10-01,No
+C100250,32.0,Female,65.0,26.37,Two year,4,2021-04-15,No
+C100251,32.0,Female,15.0,31.0,Two year,1,2022-12-27,No
+C100252,29.0,Male,42.0,51.09,Month-to-month,3,2019-02-04,Yes
+C100253,30.0,Male,51.0,38.08,Month-to-month,1,2020-02-08,No
+C100254,74.0,Male,64.0,17.14,,3,2019-08-26,No
+C100255,40.0,Male,1.0,19.27,Month-to-month,1,2019-10-16,No
+C100256,24.0,Male,43.0,54.38,Month-to-month,2,2019-08-22,Yes
+C100257,29.0,Male,18.0,32.77,One year,2,2019-04-04,No
+C100258,42.0,Female,28.0,29.3,Month-to-month,0,2019-03-23,No
+C100259,39.0,Female,69.0,16.92,One year,0,2020-11-17,No
+C100260,37.0,Female,47.0,40.81,One year,1,2022-02-03,No
+C100261,76.0,Male,64.0,32.58,Month-to-month,2,2022-08-13,No
+C100262,71.0,Male,14.0,32.91,Month-to-month,2,2022-11-10,Yes
+C100263,53.0,Female,46.0,15.37,Month-to-month,1,2021-04-12,No
+C100264,79.0,Female,66.0,46.72,Month-to-month,3,2021-07-14,No
+C100265,39.0,Female,7.0,19.73,Two year,3,2023-02-26,No
+C100266,26.0,Female,62.0,61.68,One year,1,2020-08-11,No
+C100267,34.0,Female,23.0,17.64,Month-to-month,1,2021-11-21,Yes
+C100268,23.0,Female,,37.82,Two year,0,2021-03-10,No
+C100269,77.0,Female,2.0,43.02,One year,3,2021-08-18,Yes
+C100270,31.0,Male,60.0,29.7,Month-to-month,1,2019-05-22,No
+C100271,,Male,16.0,17.74,Month-to-month,0,2021-06-16,No
+C100272,30.0,Male,,38.53,Month-to-month,1,2022-08-19,No
+C100273,78.0,FEMALE,2.0,10.37,,1,2019-03-14,No
+C100274,27.0,Female,,49.3,Month-to-month,N/A,2019-07-17,Yes
+C100275,49.0,Male,9.0,39.95,Month-to-month,3,2021-11-29,Yes
+C100276,76.0,Female,49.0,27.66,Two year,3,2023-09-04,No
+C100277,50.0,Female,45.0,,Month-to-month,3,2019-12-10,No
+C100278,,Male,15.0,36.22,Two year,2,2019-03-08,No
+C100279,73.0,Female,8.0,33.48,Month-to-month,0,2019-05-29,No
+C100280,65.0,Male,19.0,33.92,Month-to-month,0,2020-02-06,Yes
+C100281,64.0,Male,12.0,35.17,Month-to-month,0,2019-07-03,Yes
+C100282,53.0,Male,51.0,26.62,Two year,0,2021-06-22,No
+C100283,,Male,65.0,37.82,One year,3,2019-10-25,No
+C100284,69.0,Female,31.0,15.46,Month-to-month,2,2021-02-27,No
+C100285,44.0,Male,24.0,3000.0,Month-to-month,1,2022-01-21,No
+C100286,76.0,Female,38.0,41.21,Month-to-month,3,2019-06-03,Yes
+C100287,72.0,Male,24.0,20.48,,1,2020-05-30,Yes
+C100288,41.0,Female,13.0,46.7,Month-to-month,3,2019-03-10,Yes
+C100289,43.0,Male,,22.84,One year,2,2020-06-14,No
+C100290,62.0,Female,47.0,27.7,Month-to-month,0,2023-02-18,No
+C100291,75.0,Male,57.0,45.08,Month-to-month,0,2021-01-13,No
+C100292,23.0,Male,37.0,64.11,Month-to-month,3,2020-10-21,Yes
+C100293,22.0,Female,49.0,54.56,Month-to-month,1,2023-09-18,Yes
+C100294,33.0,Male,9.0,10.53,Two year,2,2020-11-14,Yes
+C100295,44.0,Male,39.0,35.41,Month-to-month,1,2020-04-08,No
+C100296,28.0,Male,48.0,63.16,One year,2,2022-03-30,Yes
+C100297,,Female,44.0,28.27,Month-to-month,0,2020-06-25,No
+C100298,51.0,Female,2.0,12.86,One year,2,2022-12-18,Yes
+C100299,76.0,Male,8.0,32.56,One year,4,2020-03-27,Yes
+C100300,64.0,Male,70.0,42.4,Month-to-month,1,2020-08-28,No
+C100301,33.0,Male,19.0,14.67,One year,1,2020-07-20,No
+C100302,66.0,Female,17.0,21.3,Two year,1,2021-08-01,No
+C100303,67.0,Male,42.0,25.04,One year,1,2020-06-20,No
+C100304,60.0,Male,53.0,,One year,2,2019-09-28,No
+C100305,59.0,Male,68.0,41.5,Month-to-month,1,2023-02-04,No
+C100306,37.0,Female,53.0,47.4,,4,2023-04-14,Yes
+C100307,62.0,Female,59.0,44.8,One year,1,2023-10-29,No
+C100308,26.0,Male,66.0,39.16,Two year,N/A,2023-02-10,No
+C100309,57.0,Male,46.0,37.87,Month-to-month,5,2020-12-09,Yes
+C100310,75.0,Female,43.0,41.87,Month-to-month,5,2019-06-01,Yes
+C100311,78.0,Male,37.0,35.66,Month-to-month,2,2023-04-11,Yes
+C100312,36.0,Male,15.0,34.8,One year,7,2020-03-30,Yes
+C100313,38.0,Female,2.0,15.1,Month-to-month,0,2019-07-10,No
+C100314,56.0,Male,9.0,13.19,Two year,4,2020-12-08,Yes
+C100315,42.0,Female,64.0,,One year,3,2021-05-17,No
+C100316,63.0,Male,22.0,15.95,Two year,2,2022-03-18,No
+C100317,30.0,Male,5.0,-0.1,One year,1,2023-01-20,No
+C100318,28.0,Male,10.0,48.25,One year,1,2019-05-25,No
+C100319,21.0,Male,10.0,30.76,Two year,1,2019-06-12,Yes
+C100320,47.0,Female,27.0,25.04,Month-to-month,3,2023-06-16,Yes
+C100321,31.0,Female,50.0,21.02,One year,0,2023-12-03,No
+C100322,36.0,Female,58.0,24.14,Month-to-month,2,2021-04-29,No
+C100323,74.0,Male,58.0,25.83,One year,2,2020-12-19,No
+C100324,68.0,Female,69.0,37.09,Month-to-month,1,2022-06-07,No
+C100325,70.0,Male,56.0,40.5,One year,1,2021-06-17,No
+C100326,54.0,Female,19.0,2.72,,1,2021-06-18,No
+C100327,24.0,male,33.0,52.42,One year,4,2023-08-30,No
+C100328,64.0,Female,46.0,,One year,1,2020-07-03,No
+C100329,55.0,Female,13.0,13.24,Two year,2,2023-07-14,No
+C100330,74.0,Male,49.0,41.48,Two year,1,2019-04-11,No
+C100331,47.0,Male,3.0,20.15,Month-to-month,1,2020-01-11,Yes
+C100332,28.0,Female,16.0,24.44,One year,3,2023-11-27,No
+C100333,54.0,Female,61.0,56.75,Month-to-month,1,2021-03-31,No
+C100334,46.0,Male,23.0,18.29,Month-to-month,1,2019-07-18,Yes
+C100335,58.0,Male,70.0,43.47,One year,3,2022-08-16,No
+C100336,41.0,Female,60.0,40.0,Two year,0,2019-08-31,No
+C100337,37.0,Male,18.0,39.51,One year,2,2021-04-08,Yes
+C100338,25.0,Male,66.0,,Month-to-month,0,2019-02-26,No
+C100339,77.0,Male,62.0,,One year,0,2023-08-19,No
+C100340,64.0,male,70.0,33.58,One year,2,2019-12-10,No
+C100341,46.0,Female,29.0,39.92,One year,3,2019-12-27,No
+C100342,,Male,65.0,31.87,Month-to-month,1,2021-03-24,No
+C100343,56.0,Female,23.0,23.28,Two year,2,2023-10-22,No
+C100344,43.0,Female,,46.76,Month-to-month,3,2022-06-22,Yes
+C100345,57.0,Male,36.0,33.97,Two year,1,2022-01-23,No
+C100346,23.0,Female,26.0,43.9,One year,0,2021-07-15,Yes
+C100347,29.0,Female,1.0,57.72,One year,2,2022-01-09,Yes
+C100348,63.0,Male,,38.91,Two year,1,2022-08-04,No
+C100349,21.0,Male,32.0,1200.0,Two year,0,2022-05-15,No
+C100350,60.0,Male,59.0,45.05,Two year,1,2022-03-25,No
+C100351,43.0,Female,,12.68,Month-to-month,2,2020-04-21,Yes
+C100352,18.0,Female,17.0,51.38,Month-to-month,2,2021-01-11,No
+C100353,65.0,Male,51.0,47.36,One year,0,2021-03-10,No
+C100354,61.0,Male,50.0,29.27,,3,2021-02-03,No
+C100355,68.0,Female,36.0,24.52,One year,0,2020-01-29,No
+C100356,73.0,Male,43.0,34.67,,2,2021-03-29,No
+C100357,63.0,Male,62.0,38.74,Month-to-month,1,2022-12-21,No
+C100358,70.0,Male,63.0,29.12,Month-to-month,3,2019-12-19,No
+C100359,25.0,Female,64.0,59.88,,4,2020-08-18,Yes
+C100360,74.0,Female,71.0,20.88,Two year,4,2019-08-31,No
+C100361,74.0,Male,23.0,22.57,Month-to-month,2,2019-09-15,Yes
+C100362,61.0,Male,57.0,33.06,Month-to-month,1,2023-02-02,No
+C100363,67.0,Female,20.0,23.27,Month-to-month,2,2023-05-21,Yes
+C100364,63.0,Male,62.0,41.67,,2,2021-02-06,No
+C100365,72.0,Male,67.0,,Month-to-month,0,2020-09-11,No
+C100366,73.0,Male,32.0,,Month-to-month,1,2020-11-08,No
+C100367,50.0,Female,,29.0,Month-to-month,3,2023-09-07,Yes
+C100368,68.0,Female,9.0,16.2,Two year,0,2023-11-10,No
+C100369,74.0,Female,7.0,8.43,Month-to-month,4,2021-03-12,Yes
+C100370,36.0,FEMALE,15.0,12.67,Two year,1,2021-10-11,No
+C100371,20.0,Female,4.0,39.8,Month-to-month,0,2022-03-17,Yes
+C100372,28.0,Female,29.0,34.06,Month-to-month,2,2020-12-26,No
+C100373,19.0,Male,71.0,56.94,One year,2,2022-11-15,No
+C100374,44.0,Female,51.0,45.92,Month-to-month,N/A,2019-06-29,No
+C100375,19.0,Male,42.0,57.93,Two year,2,2021-07-17,No
+C100376,34.0,Female,52.0,51.2,Two year,3,2021-08-23,No
+C100377,33.0,Female,4.0,18.24,Two year,2,2023-08-27,Yes
+C100378,61.0,Female,47.0,23.25,Month-to-month,2,2021-05-27,No
+C100379,33.0,Male,37.0,41.31,One year,0,2022-12-28,No
+C100380,76.0,Male,9.0,25.8,One year,3,2022-12-26,Yes
+C100381,29.0,Male,36.0,,Two year,N/A,2023-05-25,Yes
+C100382,78.0,Male,48.0,,Month-to-month,0,2021-11-02,No
+C100383,53.0,Male,31.0,41.26,Month-to-month,0,2021-08-15,Yes
+C100384,33.0,Male,66.0,48.26,Two year,2,2022-01-05,Yes
+C100385,,Female,68.0,62.56,Month-to-month,1,2019-08-22,Yes
+C100386,36.0,Male,26.0,32.84,Month-to-month,3,2021-07-13,No
+C100387,54.0,Female,68.0,44.38,Month-to-month,1,2019-11-08,No
+C100388,24.0,Female,18.0,42.73,One year,1,2023-10-20,No
+C100389,28.0,Male,9.0,39.96,Month-to-month,0,2019-09-21,Yes
+C100390,25.0,Female,47.0,59.0,One year,N/A,2020-07-16,No
+C100391,60.0,Male,11.0,,Two year,1,2021-08-19,No
+C100392,23.0,Female,23.0,59.26,Month-to-month,1,2022-02-03,Yes
+C100393,19.0, Male ,29.0,42.64,Two year,1,2023-09-08,No
+C100394,46.0,Female,49.0,44.55,Two year,2,2019-08-26,No
+C100395,,Male,60.0,37.1,Two year,2,2021-09-22,No
+C100396,53.0,Male,64.0,36.73,One year,0,2022-12-17,No
+C100397,76.0,Male,45.0,53.82,Month-to-month,1,2021-02-12,No
+C100398,71.0,Male,69.0,37.61,Month-to-month,2,2021-08-18,No
+C100399,51.0,Male,52.0,22.83,Two year,0,2019-07-22,No
+C100400,57.0,Female,63.0,31.76,Month-to-month,2,2020-06-29,No
+C100401,68.0,Male,41.0,29.13,Month-to-month,1,2020-11-06,No
+C100402,45.0,Male,9.0,44.25,One year,3,2022-12-29,No
+C100403,58.0,Female,15.0,26.57,One year,1,2019-11-28,No
+C100404,31.0,Female,30.0,38.35,One year,3,2019-01-12,No
+C100405,55.0,Male,59.0,3000.0,One year,2,2021-04-01,No
+C100406,32.0,Male,30.0,32.53,Month-to-month,3,2021-01-04,No
+C100407,29.0,Female,1.0,42.01,One year,3,2021-04-05,Yes
+C100408,65.0,Male,31.0,47.32,Month-to-month,1,2019-08-07,Yes
+C100409,53.0,Male,50.0,28.04,Month-to-month,1,2023-08-09,No
+C100410,41.0,Female,71.0,950.0,Two year,2,2020-09-17,No
+C100411,20.0,Male,14.0,42.23,Two year,2,2020-12-13,Yes
+C100412,32.0,Female,23.0,16.68,One year,4,2020-10-06,No
+C100413,67.0,Female,34.0,30.01,Month-to-month,0,2023-05-10,No
+C100414,47.0,Male,35.0,27.87,Month-to-month,1,2023-08-09,No
+C100415,77.0,Male,70.0,17.75,Two year,1,2019-03-17,No
+C100416,73.0,Male,29.0,34.69,Two year,2,2019-02-21,No
+C100417,70.0,Male,39.0,37.1,Month-to-month,2,2020-09-14,Yes
+C100418,18.0,Male,18.0,36.01,One year,1,2022-08-09,No
+C100419,21.0,Female,5.0,23.11,Month-to-month,2,2022-07-23,Yes
+C100420,53.0,Female,28.0,43.2,Month-to-month,1,2019-02-06,No
+C100421,38.0,Male,31.0,31.96,One year,2,2021-03-15,No
+C100422,70.0,Female,13.0,34.07,Month-to-month,1,2023-08-10,Yes
+C100423,37.0,Male,47.0,48.2,Two year,2,2019-05-23,No
+C100424,27.0,Female,24.0,36.99,Two year,3,2023-08-07,No
+C100425,24.0,Female,,44.62,Month-to-month,2,2020-10-04,Yes
+C100426,36.0,Male,39.0,29.29,One year,2,2022-05-03,No
+C100427,56.0,Male,18.0,24.77,Month-to-month,2,2021-09-23,No
+C100428,25.0,Female,52.0,49.74,Month-to-month,0,2019-06-27,No
+C100429,67.0,Female,2.0,20.59,Month-to-month,2,2023-09-17,Yes
+C100430,36.0,Male,55.0,47.64,Month-to-month,1,2020-05-21,No
+C100431,37.0,Male,39.0,32.94,Two year,2,2020-03-03,No
+C100432,59.0,Female,52.0,34.06,One year,1,2019-05-18,No
+C100433,71.0,Female,28.0,25.63,Month-to-month,3,2019-06-11,No
+C100434,45.0,Female,63.0,,Month-to-month,4,2023-08-11,Yes
+C100435,67.0,Male,36.0,21.85,Two year,0,2022-09-25,No
+C100436,36.0,Female,71.0,36.27,One year,3,2022-06-30,No
+C100437,26.0,Male,,41.08,One year,0,2022-01-12,No
+C100438,69.0,Male,,32.64,Month-to-month,1,2019-11-08,No
+C100439,65.0,Female,47.0,32.92,Two year,4,2020-09-21,No
+C100440,64.0, Male ,66.0,33.69,One year,0,2023-11-22,No
+C100441,72.0,Female,13.0,43.94,One year,1,2020-12-05,Yes
+C100442,48.0,Male,37.0,44.39,Month-to-month,1,2020-04-20,No
+C100443,30.0,Male,65.0,,One year,0,2020-08-13,No
+C100444,54.0,Female,18.0,24.86,Month-to-month,4,2021-12-09,Yes
+C100445,53.0,Female,69.0,62.61,Month-to-month,4,2022-04-08,No
+C100446,41.0,Male,69.0,43.93,One year,0,2020-01-27,No
+C100447,57.0,Male,36.0,29.93,Two year,0,2023-04-08,No
+C100448,34.0,Male,52.0,38.63,Month-to-month,1,2021-03-06,No
+C100449,,Male,34.0,33.26,Month-to-month,2,2020-06-23,Yes
+C100450,67.0,Male,47.0,48.2,Month-to-month,1,2020-11-28,No
+C100451,23.0,Male,62.0,53.41,One year,2,2023-06-26,No
+C100452,46.0,Male,53.0,56.89,One year,2,2021-11-30,No
+C100453,58.0,Female,21.0,17.48,Month-to-month,2,2021-01-23,No
+C100454,21.0,Male,42.0,54.54,Month-to-month,1,2023-06-20,No
+C100455,57.0,Female,58.0,27.38,Month-to-month,4,2021-06-03,No
+C100456,74.0,Female,42.0,50.77,Month-to-month,0,2019-03-23,Yes
+C100457,69.0,Female,21.0,22.99,Month-to-month,2,2020-04-06,Yes
+C100458,60.0,Male,54.0,35.62,Month-to-month,0,2023-09-25,No
+C100459,67.0,Female,52.0,44.84,Month-to-month,4,2019-06-06,No
+C100460,,Female,46.0,46.35,Two year,4,2022-06-05,No
+C100461,38.0,Male,24.0,16.08,Month-to-month,0,2019-12-29,No
+C100462,23.0,Female,40.0,43.54,Month-to-month,1,2019-08-08,No
+C100463,62.0,Male,43.0,18.95,One year,1,2020-03-27,No
+C100464,37.0,Female,16.0,26.17,Month-to-month,2,2020-10-04,Yes
+C100465,71.0, Male ,66.0,38.79,Month-to-month,2,2021-02-26,No
+C100466,46.0,Female,43.0,29.41,Two year,2,2023-04-02,No
+C100467,73.0,Male,4.0,14.36,Month-to-month,1,2021-06-08,No
+C100468,26.0,Male,,37.14,Month-to-month,2,2021-04-21,No
+C100469,28.0,Female,58.0,44.94,Two year,2,2023-03-01,No
+C100470,39.0,Female,50.0,40.29,Two year,2,2022-09-17,No
+C100471,19.0,Male,39.0,61.86,Two year,1,2020-10-09,No
+C100472,48.0,Male,36.0,11.49,,0,2020-01-06,No
+C100473,58.0,Female,27.0,26.94,One year,2,2022-10-10,Yes
+C100474,,Female,67.0,35.92,,3,2022-01-25,No
+C100475,31.0,Female,25.0,32.42,Month-to-month,N/A,2020-04-02,Yes
+C100476,28.0,Male,60.0,43.48,Two year,1,2022-12-09,No
+C100477,52.0,Female,5.0,20.04,Month-to-month,0,2021-05-10,Yes
+C100478,57.0,Male,38.0,21.0,One year,3,2023-02-19,No
+C100479,180.0,Female,19.0,32.67,Month-to-month,1,2019-05-18,Yes
+C100480,73.0,Male,30.0,29.99,Month-to-month,0,2020-07-16,Yes
+C100481,41.0,Female,45.0,31.89,Month-to-month,1,2023-05-25,No
+C100482,28.0,Female,5.0,40.2,Two year,2,2021-12-02,No
+C100483,33.0,Male,7.0,19.64,Month-to-month,1,2020-09-26,Yes
+C100484,72.0,Female,42.0,,Two year,2,2020-08-21,No
+C100485,46.0,Female,48.0,40.36,Month-to-month,3,2022-02-27,Yes
+C100486,79.0,Male,5.0,24.38,Month-to-month,3,2023-07-17,Yes
+C100487,58.0,Male,69.0,39.16,Month-to-month,1,2021-10-08,No
+C100488,54.0,Male,32.0,39.45,Two year,0,2020-05-14,No
+C100489,24.0,Female,70.0,68.18,Month-to-month,N/A,2021-05-28,No
+C100490,54.0,Female,10.0,12.08,Two year,2,2023-05-17,No
+C100491,41.0,Male,64.0,31.39,Month-to-month,1,2020-03-06,No
+C100492,,Female,46.0,49.27,Two year,3,2023-06-24,No
+C100493,26.0,Female,58.0,,One year,0,2023-01-23,No
+C100494,29.0,Male,58.0,,Month-to-month,5,2020-06-21,Yes
+C100495,59.0,Male,13.0,12.09,Month-to-month,1,2021-04-30,Yes
+C100496,60.0,Female,12.0,17.22,Month-to-month,4,2021-08-05,Yes
+C100497,69.0,Female,,35.72,Month-to-month,4,2019-08-25,No
+C100498,50.0,Male,31.0,13.46,Month-to-month,1,2022-06-01,No
+C100499,,Female,15.0,24.81,,3,2019-06-29,Yes
+C100500,36.0,Female,45.0,20.7,,2,2023-11-13,No
+C100501,41.0,Male,62.0,26.5,Month-to-month,2,2021-06-25,No
+C100502,59.0,Female,20.0,35.16,Month-to-month,2,2020-11-25,Yes
+C100503,51.0,Female,63.0,32.07,Two year,0,2021-10-14,No
+C100504,36.0,Female,5.0,20.79,Month-to-month,1,2019-05-30,Yes
+C100505,31.0,Female,45.0,39.79,Month-to-month,1,2020-05-12,Yes
+C100506,62.0,Male,27.0,36.23,Month-to-month,4,2021-04-17,No
+C100507,,Female,38.0,28.03,Month-to-month,1,2020-02-27,No
+C100508,30.0,Female,44.0,33.64,Month-to-month,1,2021-01-04,No
+C100509,38.0,Male,15.0,16.25,Month-to-month,1,2023-02-03,No
+C100510,70.0,Female,4.0,38.67,Month-to-month,2,2019-08-20,Yes
+C100511,46.0,Male,37.0,,Month-to-month,2,2022-05-16,No
+C100512,54.0,Female,68.0,29.37,One year,2,2019-03-12,No
+C100513,23.0,Male,21.0,41.34,Month-to-month,3,2019-09-16,Yes
+C100514,39.0,FEMALE,40.0,39.14,Month-to-month,3,2020-09-09,Yes
+C100515,64.0,Male,9.0,,Month-to-month,1,2022-12-25,Yes
+C100516,65.0,Female,25.0,45.79,Month-to-month,3,2022-09-05,Yes
+C100517,53.0,Female,10.0,36.72,One year,1,2019-04-14,No
+C100518,72.0,Female,8.0,17.01,Month-to-month,1,2023-02-08,Yes
+C100519,36.0,Female,57.0,36.21,Month-to-month,2,2023-02-26,No
+C100520,28.0,Male,65.0,41.68,,0,2022-03-08,No
+C100521,22.0,Female,66.0,57.29,Month-to-month,2,2023-02-14,No
+C100522,,Male,52.0,37.11,Two year,4,2021-12-08,Yes
+C100523,65.0,Male,11.0,50.33,Month-to-month,2,2019-08-11,Yes
+C100524,74.0,Male,66.0,40.78,Month-to-month,1,2022-08-20,No
+C100525,26.0,Male,1.0,14.37,,1,2023-11-19,No
+C100526,49.0,Male,20.0,19.28,Two year,1,2020-07-15,No
+C100527,26.0,Female,19.0,41.82,Month-to-month,1,2023-06-09,Yes
+C100528,70.0,Male,53.0,23.34,Two year,2,2021-04-04,No
+C100529,26.0,FEMALE,10.0,,Two year,1,2019-11-18,No
+C100530,57.0,Male,69.0,37.04,Month-to-month,1,2021-11-19,No
+C100531,23.0,Male,14.0,42.62,Month-to-month,2,2022-03-22,Yes
+C100532,63.0,Female,62.0,36.95,One year,2,2023-03-26,No
+C100533,74.0,Male,42.0,23.71,Month-to-month,2,2021-04-16,No
+C100534,,Male,18.0,33.28,Month-to-month,3,2023-06-25,Yes
+C100535,34.0,Male,30.0,,Month-to-month,3,2019-09-18,No
+C100536,70.0,Female,9.0,17.71,,3,2022-06-13,No
+C100537,36.0,Female,31.0,,Two year,2,2020-01-07,No
+C100538,64.0,Female,50.0,27.14,Two year,3,2022-04-20,No
+C100539,69.0,Male,15.0,31.02,One year,2,2020-01-07,No
+C100540,48.0,Female,69.0,24.52,Month-to-month,3,2022-09-02,No
+C100541,56.0,Female,48.0,33.69,Two year,2,2022-04-24,No
+C100542,71.0,Male,27.0,35.28,One year,2,2021-03-29,No
+C100543,,Female,21.0,,Two year,2,2021-10-26,No
+C100544,19.0,Male,56.0,54.2,One year,2,2023-08-09,No
+C100545,44.0,Male,29.0,17.53,One year,0,2023-10-14,No
+C100546,29.0, Male ,67.0,68.2,One year,3,2022-01-29,No
+C100547,72.0,Female,33.0,40.91,Month-to-month,3,2020-07-05,Yes
+C100548,71.0,Male,50.0,37.35,Month-to-month,0,2020-07-10,Yes
+C100549,41.0,Male,65.0,21.95,Month-to-month,4,2021-05-15,No
+C100550,250.0,Male,68.0,29.94,Two year,2,2022-01-08,No
+C100551,62.0,Female,18.0,35.17,Two year,2,2020-10-31,No
+C100552,46.0,Male,31.0,46.43,One year,2,2021-04-18,Yes
+C100553,24.0,Male,52.0,53.57,Month-to-month,0,2020-11-18,No
+C100554,59.0,Male,30.0,41.47,Month-to-month,2,2019-10-23,Yes
+C100555,63.0,Female,22.0,20.52,Month-to-month,0,2021-11-16,No
+C100556,,Male,45.0,46.61,Month-to-month,1,2022-03-02,No
+C100557,66.0,Male,64.0,39.21,Month-to-month,1,2022-11-15,No
+C100558,51.0,Female,34.0,34.43,Month-to-month,4,2022-10-20,Yes
+C100559,69.0,Female,28.0,13.11,One year,1,2022-05-15,No
+C100560,70.0,Female,55.0,45.91,One year,0,2019-09-14,No
+C100561,59.0,Female,36.0,44.03,,0,2019-07-27,Yes
+C100562,38.0,Female,23.0,15.41,Month-to-month,3,2020-03-28,No
+C100563,40.0,Male,63.0,25.35,Month-to-month,2,2020-05-11,No
+C100564,62.0,Female,44.0,36.71,Month-to-month,2,2020-04-01,No
+C100565,21.0,Female,48.0,42.86,One year,1,2022-02-01,No
+C100566,32.0,Female,58.0,13.69,Month-to-month,2,2020-03-13,No
+C100567,50.0,Male,7.0,,Two year,5,2022-10-03,No
+C100568,76.0,Female,61.0,39.86,Month-to-month,1,2021-12-09,No
+C100569,64.0,Female,10.0,18.23,Month-to-month,2,2023-04-11,Yes
+C100570,68.0,Female,1.0,41.43,One year,0,2021-01-06,No
+C100571,,Female,71.0,57.69,Two year,3,2020-10-11,No
+C100572,35.0,Male,20.0,,Two year,2,2023-07-01,No
+C100573,34.0,Female,3.0,3000.0,Month-to-month,3,2021-04-05,Yes
+C100574,64.0,Male,50.0,24.6,Month-to-month,1,2023-04-10,Yes
+C100575,51.0,Female,22.0,18.98,Month-to-month,0,2019-03-28,No
+C100576,31.0,Male,30.0,,Two year,1,2023-03-31,No
+C100577,,Female,69.0,35.16,One year,2,2021-07-23,No
+C100578,,Female,41.0,27.79,One year,1,2022-08-24,No
+C100579,73.0,Female,2.0,37.29,Month-to-month,4,2020-07-01,Yes
+C100580,52.0,Male,49.0,43.3,Two year,1,2019-11-29,No
+C100581,25.0,Male,12.0,46.63,Month-to-month,0,2021-08-04,Yes
+C100582,73.0,FEMALE,23.0,32.19,One year,1,2019-07-09,No
+C100583,29.0,Female,16.0,44.64,One year,1,2021-12-16,No
+C100584,21.0,Male,65.0,69.07,Two year,2,2023-04-01,No
+C100585,67.0,Female,7.0,21.9,Two year,2,2019-11-05,No
+C100586,45.0,Male,39.0,50.26,Month-to-month,3,2021-12-29,Yes
+C100587,57.0,Female,34.0,,Month-to-month,2,2019-05-17,No
+C100588,26.0,Female,40.0,44.45,Two year,4,2020-12-01,No
+C100589,62.0,Male,43.0,3000.0,One year,4,2022-07-07,No
+C100590,43.0,Female,8.0,18.96,Month-to-month,4,2021-04-24,No
+C100591,79.0,Female,23.0,32.08,Month-to-month,2,2022-07-23,Yes
+C100592,57.0,Male,41.0,46.81,Two year,0,2023-11-09,No
+C100593,76.0,Male,8.0,15.77,Two year,2,2023-11-13,Yes
+C100594,67.0,Male,58.0,37.45,One year,0,2020-07-27,No
+C100595,70.0,Male,58.0,,Month-to-month,6,2021-06-25,Yes
+C100596,23.0,Female,38.0,39.01,One year,2,2023-05-19,No
+C100597,66.0,Male,58.0,25.51,Two year,3,2019-05-02,No
+C100598,55.0,Male,31.0,29.91,One year,1,2021-08-27,No
+C100599,42.0,Female,40.0,14.68,One year,0,2019-05-19,No
+C100600,,Female,34.0,31.31,,0,2019-04-16,No
+C100601,,Male,10.0,23.21,One year,2,2023-10-14,No
+C100602,30.0,Male,13.0,17.32,Month-to-month,0,2023-06-25,No
+C100603,29.0,Female,39.0,36.59,Month-to-month,1,2022-08-16,No
+C100604,72.0,Male,6.0,7.96,One year,0,2021-09-20,No
+C100605,65.0,Male,45.0,52.21,Two year,1,2019-10-25,No
+C100606,54.0,Female,23.0,13.48,Two year,4,2020-08-22,No
+C100607,64.0,Male,31.0,44.88,Month-to-month,0,2021-01-31,Yes
+C100608,37.0,Female,64.0,45.2,Month-to-month,0,2020-10-03,No
+C100609,62.0,Female,62.0,34.96,One year,2,2019-12-19,No
+C100610,30.0,Female,34.0,18.63,Two year,0,2023-02-19,No
+C100611,45.0,Male,28.0,38.82,Month-to-month,1,2022-10-29,Yes
+C100612,999.0,Female,58.0,69.7,One year,1,2023-06-18,No
+C100613,41.0,Male,37.0,21.76,Month-to-month,3,2022-08-09,Yes
+C100614,39.0,Male,53.0,32.91,Two year,2,2022-11-03,No
+C100615,44.0,Female,9.0,33.22,Month-to-month,1,2023-07-27,Yes
+C100616,47.0,Male,51.0,38.66,Month-to-month,3,2023-03-08,Yes
+C100617,20.0,Male,41.0,67.3,One year,0,2022-03-29,Yes
+C100618,39.0,Female,16.0,19.1,Month-to-month,0,2022-09-15,Yes
+C100619,70.0,Female,55.0,41.92,Month-to-month,0,2020-12-29,No
+C100620,44.0,Female,39.0,19.19,Month-to-month,1,2020-05-30,No
+C100621,51.0,Male,52.0,,Month-to-month,1,2023-06-29,No
+C100622,24.0,Female,59.0,45.4,Month-to-month,0,2023-08-24,No
+C100623,42.0,Female,19.0,3.62,Month-to-month,0,2020-11-21,No
+C100624,78.0,Female,58.0,36.14,One year,0,2019-05-15,No
+C100625,51.0,Male,,39.91,Month-to-month,1,2022-08-17,Yes
+C100626,19.0,Female,37.0,,One year,0,2019-06-22,No
+C100627,62.0,Female,52.0,32.21,Two year,3,2020-01-31,No
+C100628,65.0,Male,55.0,36.37,One year,0,2019-04-22,No
+C100629,,Male,31.0,35.23,Month-to-month,N/A,2020-05-13,Yes
+C100630,19.0,Female,58.0,68.26,Two year,2,2021-01-05,Yes
+C100631,69.0,Female,30.0,28.37,Month-to-month,3,2021-12-25,No
+C100632,33.0,Male,63.0,49.29,Month-to-month,1,2022-05-19,No
+C100633,75.0,Male,56.0,3000.0,Month-to-month,0,2020-06-13,No
+C100634,40.0,Female,39.0,28.74,One year,1,2021-02-17,No
+C100635,42.0,Male,13.0,24.68,Month-to-month,2,2023-03-29,Yes
+C100636,67.0,Male,59.0,37.99,Month-to-month,0,2022-08-05,No
+C100637,26.0,Female,46.0,39.64,One year,0,2021-07-18,No
+C100638,19.0,Male,41.0,59.44,Month-to-month,0,2022-01-30,Yes
+C100639,65.0,Female,52.0,21.74,,1,2023-07-30,No
+C100640,75.0,Male,71.0,53.01,,1,2020-02-10,No
+C100641,79.0,Female,37.0,40.64,Month-to-month,0,2021-12-18,No
+C100642,25.0,Male,28.0,42.47,Month-to-month,1,2022-03-25,Yes
+C100643,27.0,Female,62.0,45.95,One year,2,2021-11-03,No
+C100644,38.0,Male,47.0,31.84,,0,2023-11-16,No
+C100645,180.0,Male,34.0,34.93,Month-to-month,2,2021-07-01,No
+C100646,74.0,Female,13.0,31.33,One year,0,2021-07-25,No
+C100647,69.0,Male,,33.07,Two year,2,2019-12-16,No
+C100648,41.0, Male ,67.0,50.02,One year,3,2019-08-17,No
+C100649,75.0,Female,21.0,20.73,,2,2020-09-22,No
+C100650,33.0,Male,69.0,43.05,Two year,1,2021-06-19,No
+C100651,25.0,Female,66.0,39.12,Month-to-month,3,2023-06-01,No
+C100652,999.0,Male,61.0,45.94,Two year,2,2023-08-11,No
+C100653,23.0,Female,23.0,43.43,Month-to-month,4,2022-05-04,No
+C100654,,Male,57.0,32.94,Month-to-month,1,2020-07-04,Yes
+C100655,79.0,Male,50.0,46.62,Two year,4,2022-10-18,No
+C100656,,Male,64.0,61.12,One year,2,2020-05-02,No
+C100657,25.0,Female,30.0,15.84,Two year,2,2021-01-18,No
+C100658,29.0,Female,44.0,48.6,Two year,0,2021-08-27,No
+C100659,28.0,Male,67.0,40.55,Month-to-month,1,2019-12-31,No
+C100660,51.0,Female,65.0,50.17,Month-to-month,0,2023-03-04,No
+C100661,53.0,Female,68.0,1200.0,One year,2,2022-12-02,No
+C100662,76.0,Male,8.0,17.21,Month-to-month,2,2022-11-23,No
+C100663,45.0,Male,3.0,21.65,,0,2021-01-21,Yes
+C100664,75.0,Female,7.0,950.0,Two year,4,2022-09-11,Yes
+C100665,64.0,Female,71.0,44.81,Month-to-month,0,2022-11-02,No
+C100666,71.0,Male,30.0,35.45,,2,2022-03-14,No
+C100667,29.0,Female,43.0,60.77,Month-to-month,1,2019-05-02,Yes
+C100668,46.0,Female,30.0,19.13,Month-to-month,1,2019-05-28,No
+C100669,74.0,Male,6.0,37.52,Month-to-month,2,2020-09-25,Yes
+C100670,64.0,Male,,30.18,Month-to-month,0,2019-05-13,No
+C100671,31.0,Female,36.0,33.57,,1,2022-03-16,No
+C100672,70.0,Male,22.0,38.19,Month-to-month,4,2022-01-02,Yes
+C100673,65.0,Male,4.0,28.33,One year,4,2023-08-03,Yes
+C100674,27.0,Female,9.0,,Month-to-month,1,2021-10-18,Yes
+C100675,22.0,Male,39.0,39.68,Month-to-month,0,2019-12-28,No
+C100676,34.0,Male,55.0,31.88,Two year,2,2019-11-30,No
+C100677,47.0,Male,14.0,23.69,Month-to-month,0,2023-11-03,Yes
+C100678,27.0,Male,38.0,57.87,Two year,1,2020-01-20,No
+C100679,20.0,Female,27.0,1200.0,Month-to-month,4,2022-04-29,No
+C100680,24.0,Female,47.0,,One year,2,2021-11-20,No
+C100681,37.0,Male,22.0,,One year,1,2019-12-26,No
+C100682,42.0,Male,63.0,,Month-to-month,3,2021-05-24,No
+C100683,37.0,Female,43.0,37.56,Month-to-month,2,2019-01-27,Yes
+C100684,45.0,Male,13.0,39.08,Month-to-month,2,2022-08-19,Yes
+C100685,62.0,Male,59.0,3000.0,Month-to-month,0,2023-07-30,No
+C100686,33.0,Male,46.0,3000.0,Month-to-month,1,2022-09-29,No
+C100687,46.0,Male,67.0,45.74,,1,2022-04-30,No
+C100688,63.0,Male,66.0,57.73,Month-to-month,0,2022-03-19,Yes
+C100689,21.0,Male,24.0,,Month-to-month,1,2022-07-24,No
+C100690,76.0,Male,50.0,47.82,Month-to-month,2,2019-02-19,No
+C100691,79.0,Male,41.0,29.69,Month-to-month,2,2021-01-14,No
+C100692,35.0,Female,31.0,26.49,Month-to-month,1,2022-10-14,No
+C100693,73.0,Male,1.0,10.61,One year,2,2019-06-08,No
+C100694,33.0,FEMALE,58.0,18.71,Month-to-month,0,2021-02-18,No
+C100695,74.0,Male,27.0,24.28,Two year,1,2021-05-11,No
+C100696,58.0,Female,5.0,14.63,Month-to-month,3,2022-10-01,Yes
+C100697,33.0,Male,69.0,45.64,Two year,2,2022-03-04,No
+C100698,21.0,Male,29.0,28.98,Month-to-month,0,2021-05-04,No
+C100699,42.0,Male,9.0,37.02,Month-to-month,0,2020-05-14,No
+C100700,64.0,Female,32.0,32.32,Month-to-month,3,2020-06-29,No
+C100701,32.0,Female,62.0,36.12,Two year,2,2023-09-24,No
+C100702,49.0,Female,54.0,29.11,Month-to-month,0,2023-01-19,No
+C100703,25.0,Male,47.0,41.23,Two year,1,2022-10-24,No
+C100704,44.0,Female,22.0,15.3,One year,2,2019-07-19,No
+C100705,20.0,Female,21.0,35.86,Month-to-month,2,2019-02-03,No
+C100706,79.0,Female,19.0,25.76,Month-to-month,2,2020-07-05,No
+C100707,49.0,Male,56.0,35.03,Month-to-month,2,2020-06-14,No
+C100708,70.0,Male,58.0,23.26,Month-to-month,1,2023-01-27,No
+C100709,25.0,Male,21.0,38.64,One year,3,2023-06-09,Yes
+C100710,28.0,Female,22.0,32.67,Month-to-month,4,2020-01-16,No
+C100711,28.0,Male,64.0,55.8,Two year,0,2022-09-06,No
+C100712,53.0,Female,70.0,59.65,Month-to-month,2,2021-06-30,No
+C100713,71.0,Male,6.0,,Month-to-month,0,2022-12-15,Yes
+C100714,55.0,Female,19.0,22.57,One year,1,2020-08-24,No
+C100715,48.0,Female,9.0,6.45,Month-to-month,0,2019-12-05,No
+C100716,76.0,Female,26.0,13.65,One year,0,2019-05-01,No
+C100717,29.0,Male,54.0,34.33,Month-to-month,1,2023-05-05,No
+C100718,28.0,Female,42.0,54.86,Month-to-month,0,2022-10-20,No
+C100719,59.0,Male,32.0,21.95,Month-to-month,3,2022-03-31,Yes
+C100720,70.0,Female,15.0,25.13,Month-to-month,1,2022-07-14,Yes
+C100721,34.0,Male,11.0,17.08,Two year,1,2020-12-28,No
+C100722,34.0,Male,54.0,37.11,One year,3,2023-07-28,No
+C100723,50.0,Female,37.0,45.12,Month-to-month,2,2022-05-14,No
+C100724,66.0,Male,2.0,13.75,One year,2,2022-11-01,No
+C100725,35.0,Female,22.0,23.19,Two year,1,2020-03-16,No
+C100726,69.0, Male ,49.0,26.64,Month-to-month,0,2019-11-05,No
+C100727,50.0,Female,40.0,40.75,Two year,1,2023-06-04,No
+C100728,61.0,Female,52.0,25.34,Month-to-month,1,2023-08-10,Yes
+C100729,56.0,Female,53.0,24.57,One year,4,2019-05-22,No
+C100730,,Female,8.0,8.52,Month-to-month,4,2019-07-18,No
+C100731,51.0,Male,61.0,24.22,Month-to-month,1,2020-04-26,No
+C100732,79.0,Female,43.0,37.61,Month-to-month,3,2023-02-25,No
+C100733,42.0,Female,5.0,47.19,One year,2,2022-07-16,No
+C100734,,Male,68.0,30.45,Month-to-month,0,2020-06-09,No
+C100735,67.0,Male,43.0,42.42,One year,0,2021-01-22,No
+C100736,29.0,Female,17.0,42.61,Two year,1,2023-03-22,No
+C100737,72.0,Female,70.0,29.98,Month-to-month,0,2023-05-09,No
+C100738,,Male,3.0,18.13,Month-to-month,4,2020-08-22,Yes
+C100739,29.0,Male,33.0,42.57,One year,4,2023-01-28,Yes
+C100740,33.0,Female,3.0,13.99,Month-to-month,1,2023-08-05,Yes
+C100741,,Female,55.0,70.81,Month-to-month,0,2022-05-09,Yes
+C100742,39.0,Female,55.0,17.44,Month-to-month,1,2020-08-25,No
+C100743,25.0,Male,7.0,40.91,One year,0,2020-10-10,Yes
+C100744,51.0,Male,21.0,29.62,Two year,0,2022-02-21,No
+C100745,78.0,Male,63.0,33.1,Two year,2,2021-03-01,No
+C100746,77.0,Female,19.0,27.2,Two year,2,2021-05-01,Yes
+C100747,76.0,Female,42.0,41.38,Month-to-month,0,2020-08-19,No
+C100748,33.0,Male,39.0,,Two year,1,2022-08-09,No
+C100749,32.0,Female,64.0,43.37,One year,1,2020-07-15,No
+C100750,60.0,Male,53.0,42.83,Month-to-month,0,2019-12-02,No
+C100751,78.0,Male,56.0,16.48,Two year,2,2019-01-22,No
+C100752,69.0,Female,7.0,36.88,Month-to-month,0,2021-06-28,Yes
+C100753,,Male,62.0,61.38,One year,2,2020-04-10,No
+C100754,,Male,33.0,39.71,One year,1,2023-06-19,No
+C100755,49.0,Male,5.0,31.64,Two year,2,2022-06-06,No
+C100756,45.0,Female,7.0,8.02,One year,2,2021-04-24,No
+C100757,,Female,51.0,34.12,Two year,0,2021-09-02,No
+C100758,51.0,Male,64.0,31.08,Month-to-month,2,2023-09-25,No
+C100759,74.0,Female,14.0,18.33,Month-to-month,2,2020-08-17,No
+C100760,67.0,Female,21.0,35.97,Month-to-month,2,2022-08-12,Yes
+C100761,20.0,Male,19.0,32.66,One year,2,2020-08-09,No
+C100762,65.0,Female,64.0,37.9,Month-to-month,5,2021-07-01,Yes
+C100763,37.0,Male,24.0,8.11,Month-to-month,1,2019-11-20,No
+C100764,38.0,Male,47.0,32.52,Month-to-month,1,2023-11-29,Yes
+C100765,55.0,Male,42.0,33.5,One year,3,2019-05-19,No
+C100766,79.0,Male,30.0,21.95,Month-to-month,2,2020-07-27,Yes
+C100767,22.0,Female,45.0,41.3,One year,1,2019-10-06,No
+C100768,49.0,Male,15.0,43.36,Month-to-month,1,2023-08-24,Yes
+C100769,32.0,Male,67.0,28.0,Two year,1,2022-01-24,No
+C100770,74.0,Female,66.0,29.29,One year,4,2021-03-25,No
+C100771,46.0,male,1.0,12.21,Month-to-month,1,2023-07-31,Yes
+C100772,71.0,Female,35.0,,Month-to-month,N/A,2023-03-08,No
+C100773,72.0,Female,14.0,45.22,Month-to-month,0,2022-05-21,Yes
+C100774,24.0,Male,32.0,47.92,Month-to-month,1,2021-05-10,No
+C100775,65.0,Female,26.0,20.63,Month-to-month,4,2020-09-13,Yes
+C100776,67.0,Female,,34.62,Month-to-month,1,2020-11-21,No
+C100777,69.0,Female,,,Month-to-month,1,2021-10-10,No
+C100778,79.0,Female,21.0,17.19,,2,2022-04-28,No
+C100779,65.0,Male,40.0,46.53,Month-to-month,2,2019-08-29,Yes
+C100780,69.0,Female,28.0,42.57,Two year,3,2019-10-23,No
+C100781,61.0,Male,37.0,31.8,One year,1,2019-05-29,No
+C100782,36.0,Female,65.0,45.96,Month-to-month,1,2022-02-09,No
+C100783,70.0,Female,54.0,3000.0,Month-to-month,5,2019-04-23,Yes
+C100784,61.0,Female,4.0,36.74,Month-to-month,2,2021-09-20,Yes
+C100785,60.0,Female,47.0,23.59,Month-to-month,2,2021-10-16,No
+C100786,78.0,Male,55.0,,Month-to-month,1,2021-08-09,Yes
+C100787,63.0,Female,21.0,,Month-to-month,2,2021-11-20,No
+C100788,39.0,Male,53.0,28.22,Month-to-month,4,2021-06-13,No
+C100789,36.0,Male,7.0,23.13,One year,3,2019-10-07,Yes
+C100790,38.0,Female,7.0,19.96,Month-to-month,2,2022-07-27,Yes
+C100791,28.0,Male,33.0,35.03,One year,0,2023-08-24,No
+C100792,23.0,Female,30.0,28.03,Month-to-month,0,2021-05-19,No
+C100793,64.0,Female,63.0,29.48,Month-to-month,0,2019-09-11,No
+C100794,66.0,Female,59.0,52.22,Month-to-month,1,2022-04-14,No
+C100795,28.0,Female,43.0,,Month-to-month,1,2021-07-06,Yes
+C100796,42.0,Female,39.0,38.2,Month-to-month,1,2022-04-17,Yes
+C100797,75.0,Female,4.0,,Month-to-month,0,2022-03-14,No
+C100798,69.0,Female,14.0,19.03,Two year,0,2020-01-11,No
+C100799,54.0,Female,32.0,28.83,Month-to-month,1,2019-02-26,No
+C100800,78.0,Female,31.0,32.13,Month-to-month,1,2020-07-21,No
+C100801,38.0,Female,28.0,17.59,Month-to-month,1,2020-05-02,No
+C100802,70.0,Male,36.0,20.9,One year,2,2022-06-22,No
+C100803,76.0,Female,42.0,33.57,Two year,0,2021-08-16,No
+C100804,54.0,Female,28.0,25.2,One year,0,2023-06-28,No
+C100805,27.0,Female,42.0,36.96,Month-to-month,3,2022-05-04,No
+C100806,,Male,8.0,26.27,One year,2,2020-03-12,No
+C100807,,Male,68.0,37.77,Two year,3,2022-05-12,No
+C100808,35.0,Female,37.0,41.31,Month-to-month,0,2019-12-21,No
+C100809,23.0,FEMALE,25.0,42.45,One year,5,2022-04-05,Yes
+C100810,28.0,Male,,41.6,One year,2,2022-04-07,No
+C100811,77.0,Male,29.0,29.98,Month-to-month,0,2019-05-12,Yes
+C100812,41.0,Female,21.0,24.58,Month-to-month,2,2021-03-05,Yes
+C100813,,Female,44.0,26.52,One year,3,2019-04-14,No
+C100814,45.0,Male,63.0,34.88,Month-to-month,2,2022-04-27,No
+C100815,67.0,Female,63.0,46.39,Month-to-month,0,2023-03-29,No
+C100816,24.0,Male,12.0,45.07,Month-to-month,1,2021-06-25,No
+C100817,35.0,Female,51.0,48.16,Two year,2,2019-09-23,No
+C100818,54.0,Female,54.0,19.27,Month-to-month,1,2020-03-29,No
+C100819,,Female,34.0,26.27,Month-to-month,2,2020-10-15,No
+C100820,46.0,Male,49.0,30.55,Month-to-month,2,2022-07-22,No
+C100821,61.0,Male,58.0,39.12,Two year,1,2023-02-22,No
+C100822,67.0,Male,8.0,17.88,Month-to-month,2,2023-11-04,Yes
+C100823,57.0,Male,35.0,25.37,One year,2,2019-03-21,No
+C100824,68.0,Female,3.0,28.73,Month-to-month,0,2021-06-03,Yes
+C100825,76.0,Male,69.0,,One year,3,2023-03-24,No
+C100826,31.0,Female,38.0,19.74,Month-to-month,1,2022-09-28,No
+C100827,44.0,Female,21.0,39.65,One year,1,2022-03-23,No
+C100828,32.0,Male,5.0,31.47,Month-to-month,0,2020-06-11,No
+C100829,43.0,Female,10.0,17.26,One year,1,2020-11-27,No
+C100830,18.0,Male,21.0,49.61,Month-to-month,0,2019-03-29,Yes
+C100831,60.0,Female,59.0,30.35,Month-to-month,2,2020-03-08,No
+C100832,32.0,Male,70.0,52.26,Month-to-month,0,2020-06-19,No
+C100833,69.0,Male,22.0,24.42,Month-to-month,3,2021-07-27,Yes
+C100834,62.0,Male,25.0,19.47,Month-to-month,1,2019-05-08,No
+C100835,38.0,Male,61.0,34.57,Month-to-month,1,2023-01-23,No
+C100836,46.0,Female,8.0,,Month-to-month,2,2020-01-11,No
+C100837,59.0,Female,44.0,35.12,Month-to-month,4,2019-12-30,Yes
+C100838,43.0,Male,43.0,34.65,Two year,1,2020-02-14,No
+C100839,30.0,Female,37.0,31.46,Month-to-month,0,2020-03-20,No
+C100840,20.0,Female,60.0,47.43,Month-to-month,1,2023-11-17,No
+C100841,52.0,Female,7.0,-14.51,One year,0,2021-06-18,No
+C100842,51.0,Female,21.0,27.23,Two year,2,2019-08-22,No
+C100843,65.0,Male,56.0,17.84,One year,1,2022-12-29,No
+C100844,26.0,Male,22.0,44.04,Month-to-month,2,2021-09-19,Yes
+C100845,,Male,5.0,47.81,Month-to-month,0,2021-01-20,No
+C100846,63.0,Female,33.0,32.64,,2,2022-06-01,Yes
+C100847,63.0,Female,69.0,36.81,One year,4,2021-01-10,No
+C100848,67.0,Female,57.0,35.3,Month-to-month,1,2019-08-15,No
+C100849,18.0,Female,63.0,52.57,Month-to-month,3,2023-09-30,No
+C100850,58.0,Female,21.0,20.81,Month-to-month,1,2022-07-05,Yes
+C100851,,Male,,20.76,,2,2021-08-20,Yes
+C100852,65.0,Female,11.0,14.06,Month-to-month,2,2022-12-02,Yes
+C100853,47.0,Male,10.0,34.88,One year,2,2022-11-16,No
+C100854,47.0,Female,,25.84,One year,2,2021-03-02,No
+C100855,,Male,63.0,48.46,Month-to-month,3,2022-04-27,No
+C100856,21.0,male,48.0,46.9,One year,0,2022-06-10,No
+C100857,62.0,Male,35.0,31.22,Month-to-month,2,2021-09-13,No
+C100858,51.0,Female,34.0,28.5,Month-to-month,1,2021-12-05,No
+C100859,50.0,Male,9.0,27.33,Month-to-month,3,2021-02-20,Yes
+C100860,75.0,Female,35.0,38.77,Month-to-month,2,2020-05-16,Yes
+C100861,63.0,Female,36.0,33.2,One year,0,2022-03-23,No
+C100862,77.0,Male,55.0,29.76,Month-to-month,3,2022-08-07,No
+C100863,,Female,18.0,32.6,Month-to-month,1,2023-02-07,Yes
+C100864,77.0,Male,62.0,55.19,Month-to-month,N/A,2021-02-25,No
+C100865,52.0,Male,29.0,25.9,Two year,0,2019-09-17,No
+C100866,42.0,Male,5.0,18.59,Month-to-month,0,2020-06-13,No
+C100867,52.0,Male,46.0,48.45,Month-to-month,0,2020-04-30,No
+C100868,20.0,Male,43.0,58.78,One year,4,2021-05-01,No
+C100869,75.0,Male,65.0,44.84,Two year,1,2020-01-15,No
+C100870,57.0,Male,40.0,28.01,One year,2,2020-06-08,No
+C100871,20.0,Female,57.0,75.63,Month-to-month,1,2022-12-29,Yes
+C100872,74.0,Female,18.0,29.33,,1,2022-05-17,No
+C100873,46.0,Male,12.0,,Month-to-month,2,2020-08-05,Yes
+C100874,25.0,Male,46.0,47.09,Two year,2,2019-02-21,No
+C100875,57.0,Male,34.0,1200.0,One year,2,2021-03-18,No
+C100876,22.0,Male,57.0,38.75,Month-to-month,N/A,2020-03-11,No
+C100877,52.0,Female,35.0,34.57,,0,2021-07-13,No
+C100878,65.0,Female,57.0,41.02,Month-to-month,3,2021-01-07,Yes
+C100879,22.0,Female,71.0,53.9,,1,2023-09-19,No
+C100880,,Female,69.0,28.98,One year,1,2022-02-01,No
+C100881,54.0,Male,7.0,3000.0,Two year,2,2019-01-07,No
+C100882,38.0,Female,69.0,37.42,Month-to-month,1,2023-10-07,No
+C100883,31.0,Female,37.0,16.54,Month-to-month,1,2019-11-29,Yes
+C100884,18.0,Male,27.0,52.09,Month-to-month,1,2020-11-08,Yes
+C100885,30.0,Male,65.0,51.03,One year,0,2023-04-13,No
+C100886,35.0,Female,13.0,52.19,Month-to-month,2,2020-09-04,Yes
+C100887,72.0,Male,29.0,37.48,One year,0,2021-04-03,No
+C100888,49.0,Female,60.0,32.07,One year,1,2022-08-08,No
+C100889,30.0,Female,19.0,,Month-to-month,1,2020-10-23,No
+C100890,64.0,Male,67.0,5.58,Two year,1,2022-05-29,No
+C100891,46.0,Female,40.0,26.05,Month-to-month,3,2023-08-26,No
+C100892,69.0,Female,37.0,29.33,One year,2,2019-07-12,No
+C100893,64.0,Male,23.0,36.58,Month-to-month,2,2019-07-12,Yes
+C100894,75.0,Female,9.0,28.82,Month-to-month,2,2022-10-09,Yes
+C100895,61.0,Female,66.0,45.68,Month-to-month,2,2019-01-28,Yes
+C100896,24.0,Female,1.0,37.44,Month-to-month,1,2023-10-24,Yes
+C100897,999.0,Female,7.0,28.71,Month-to-month,3,2023-06-20,Yes
+C100898,44.0,Male,6.0,36.28,Month-to-month,1,2020-08-23,Yes
+C100899,68.0,Male,15.0,13.85,Month-to-month,3,2023-01-16,No
+C100900,27.0,Male,53.0,46.33,Month-to-month,3,2021-05-01,No
+C100901,46.0,Female,6.0,7.91,Month-to-month,3,2021-08-25,No
+C100902,69.0,Female,11.0,39.49,One year,0,2022-01-25,Yes
+C100903,56.0,Female,51.0,48.27,Two year,2,2020-04-23,No
+C100904,20.0,Male,3.0,43.42,Month-to-month,0,2021-05-15,Yes
+C100905,,Male,21.0,14.31,Two year,2,2022-11-01,No
+C100906,40.0,Female,59.0,39.43,One year,0,2022-06-11,No
+C100907,60.0,Male,64.0,36.85,Month-to-month,0,2019-10-11,No
+C100908,58.0,Female,36.0,31.61,Month-to-month,3,2021-01-11,No
+C100909,57.0,Female,64.0,37.32,Two year,1,2021-02-06,No
+C100910,43.0,Male,64.0,44.4,Month-to-month,0,2020-11-05,No
+C100911,43.0,Female,67.0,36.15,Month-to-month,0,2019-11-05,No
+C100912,24.0,Male,18.0,48.95,One year,1,2022-08-23,Yes
+C100913,52.0,Female,19.0,28.11,One year,0,2021-01-02,No
+C100914,36.0,Male,47.0,31.17,Two year,1,2021-04-11,No
+C100915,42.0,Female,1.0,19.18,Month-to-month,0,2019-01-11,Yes
+C100916,28.0,Female,19.0,36.29,Month-to-month,1,2019-08-26,No
+C100917,64.0,Male,28.0,36.54,Month-to-month,1,2021-04-06,Yes
+C100918,75.0,Male,64.0,36.49,Month-to-month,1,2022-02-28,No
+C100919,41.0,Male,69.0,43.65,One year,0,2021-03-25,No
+C100920,,Female,25.0,23.58,Two year,1,2021-03-22,No
+C100921,46.0,Male,55.0,21.65,Month-to-month,5,2023-11-03,No
+C100922,,Male,39.0,55.76,Month-to-month,2,2019-01-14,Yes
+C100923,64.0,Female,5.0,10.92,Month-to-month,1,2020-11-13,No
+C100924,72.0,Male,29.0,35.49,Month-to-month,2,2022-05-09,Yes
+C100925,49.0,Male,50.0,39.2,One year,1,2021-08-15,No
+C100926,21.0,Male,51.0,33.74,Two year,3,2023-05-21,No
+C100927,38.0,Female,66.0,30.35,Month-to-month,0,2019-09-29,No
+C100928,27.0,Female,,43.36,One year,2,2021-04-20,No
+C100929,69.0,Female,69.0,32.49,Two year,1,2020-05-22,No
+C100930,,Female,33.0,18.08,Month-to-month,1,2022-03-14,No
+C100931,41.0,Male,51.0,42.7,Two year,0,2020-02-18,No
+C100932,41.0,Female,44.0,30.8,One year,1,2023-01-23,No
+C100933,70.0,Male,62.0,42.46,One year,4,2023-10-19,No
+C100934,23.0,Male,67.0,,Month-to-month,0,2023-11-01,No
+C100935,66.0,Male,60.0,41.05,Month-to-month,4,2019-08-18,No
+C100936,77.0,Female,68.0,32.89,Month-to-month,1,2022-04-06,No
+C100937,45.0,Female,26.0,27.53,Two year,3,2022-03-02,No
+C100938,64.0,Male,71.0,47.12,Two year,1,2021-04-04,No
+C100939,62.0,Female,8.0,22.85,Month-to-month,3,2023-02-06,Yes
+C100940,180.0,Male,27.0,23.53,Month-to-month,2,2020-05-22,No
+C100941,20.0,Female,52.0,39.73,Month-to-month,2,2023-08-24,No
+C100942,61.0,Male,44.0,34.88,One year,0,2023-10-07,No
+C100943,42.0,Male,10.0,26.45,One year,6,2022-06-23,Yes
+C100944,71.0,Female,49.0,32.12,Two year,1,2020-07-31,No
+C100945,71.0,Female,28.0,,One year,0,2019-11-22,No
+C100946,35.0,Male,57.0,42.53,Month-to-month,1,2022-11-17,No
+C100947,53.0,Male,71.0,66.12,Month-to-month,2,2023-07-15,Yes
+C100948,48.0,Male,15.0,21.48,One year,1,2023-08-18,No
+C100949,,Female,40.0,35.37,Two year,1,2021-07-18,No
+C100950,69.0,Male,2.0,24.37,Month-to-month,0,2020-06-25,Yes
+C100951,59.0,Male,38.0,5.74,,1,2021-08-07,No
+C100952,64.0,Male,60.0,39.24,Month-to-month,0,2020-02-21,No
+C100953,60.0,Female,68.0,33.33,,1,2023-05-26,No
+C100954,33.0,Male,57.0,50.95,Month-to-month,2,2020-06-28,Yes
+C100955,54.0,Male,21.0,23.76,Month-to-month,0,2019-01-29,Yes
+C100956,41.0,Female,27.0,20.32,Month-to-month,1,2020-04-05,No
+C100957,44.0, Male ,71.0,39.12,Month-to-month,N/A,2022-07-19,No
+C100958,24.0,Female,57.0,53.77,Two year,0,2022-07-31,No
+C100959,29.0,Female,65.0,48.9,Two year,1,2022-10-01,No
+C100960,39.0,Male,18.0,,Month-to-month,2,2019-08-12,No
+C100961,36.0,Female,26.0,14.26,One year,1,2022-04-21,No
+C100962,57.0,Female,59.0,35.45,One year,1,2019-06-29,No
+C100963,36.0,Female,24.0,34.96,Month-to-month,0,2019-12-16,Yes
+C100964,999.0,Male,54.0,55.89,Month-to-month,3,2023-02-12,Yes
+C100965,44.0,Male,9.0,29.77,Month-to-month,2,2023-07-03,Yes
+C100966,53.0,Male,5.0,24.22,Month-to-month,1,2021-04-12,No
+C100967,79.0,Female,66.0,51.64,Month-to-month,2,2020-03-07,No
+C100968,49.0,Female,22.0,36.79,Two year,2,2023-04-21,Yes
+C100969,39.0,Female,14.0,40.84,Month-to-month,1,2020-08-06,Yes
+C100970,37.0,Male,19.0,36.53,Month-to-month,1,2019-10-26,Yes
+C100971,45.0,Female,1.0,19.12,One year,1,2023-02-11,No
+C100972,75.0,Female,54.0,38.78,Month-to-month,1,2022-02-07,No
+C100973,41.0,Male,64.0,40.99,Two year,3,2023-07-16,No
+C100974,33.0,Female,2.0,23.62,Month-to-month,2,2022-09-15,No
+C100975,54.0,Male,43.0,34.9,,0,2020-04-19,No
+C100976,65.0,Male,26.0,19.98,,2,2022-08-01,No
+C100977,76.0,Female,48.0,13.36,Month-to-month,3,2021-05-12,Yes
+C100978,,Male,50.0,28.28,One year,2,2021-12-22,No
+C100979,180.0,Female,53.0,15.64,Month-to-month,0,2023-03-10,No
+C100980,71.0,Female,4.0,,Month-to-month,1,2022-01-22,Yes
+C100981,41.0,Female,4.0,21.25,,1,2021-08-26,Yes
+C100982,38.0,Female,68.0,23.64,Month-to-month,1,2021-02-01,No
+C100983,34.0,Male,7.0,28.98,Two year,1,2020-02-14,No
+C100984,37.0,Female,36.0,39.47,Month-to-month,2,2020-08-30,No
+C100985,72.0,Female,36.0,31.76,Month-to-month,0,2020-10-30,Yes
+C100986,37.0,Female,27.0,44.78,Two year,3,2019-07-13,No
+C100987,48.0,Female,4.0,39.92,Month-to-month,0,2022-02-12,No
+C100988,75.0, Male ,12.0,11.54,Month-to-month,0,2019-01-03,Yes
+C100989,60.0,Female,36.0,41.17,Month-to-month,1,2022-07-27,Yes
+C100990,,Female,8.0,41.81,One year,2,2019-12-05,No
+C100991,22.0,Female,53.0,55.08,,1,2020-07-08,Yes
+C100992,31.0,Male,62.0,47.94,,3,2023-08-04,No
+C100993,71.0,Female,47.0,26.91,Two year,2,2019-12-08,No
+C100994,32.0,Female,59.0,31.78,One year,0,2023-10-03,No
+C100995,37.0,Male,44.0,24.93,One year,2,2022-11-06,No
+C100996,51.0,Female,50.0,27.45,Two year,3,2019-11-07,No
+C100997,48.0,Male,4.0,20.21,Month-to-month,2,2020-06-30,No
+C100998,22.0,Female,39.0,,Two year,1,2020-10-24,No
+C100999,30.0,Male,,14.64,One year,1,2020-03-18,No
+C101000,79.0,Male,14.0,29.98,Month-to-month,2,2021-06-28,No
+C101001,44.0,Female,64.0,38.49,Month-to-month,0,2020-06-02,No
+C101002,35.0,Male,59.0,41.53,Month-to-month,0,2019-02-13,No
+C101003,69.0,Female,9.0,3.81,Month-to-month,0,2020-02-20,No
+C101004,,Female,71.0,33.46,One year,4,2021-03-04,No
+C101005,,Female,38.0,25.85,One year,2,2019-08-29,No
+C101006,27.0,Male,45.0,48.83,Month-to-month,0,2022-06-23,No
+C101007,47.0,Female,4.0,3000.0,Two year,1,2020-11-24,No
+C101008,68.0,Male,63.0,48.23,One year,1,2021-03-20,No
+C101009,65.0,Female,67.0,39.52,Month-to-month,1,2019-12-05,No
+C101010,59.0,Female,55.0,36.67,Month-to-month,0,2021-07-23,No
+C101011,,Male,13.0,24.04,Month-to-month,3,2022-03-10,Yes
+C101012,69.0,Female,38.0,38.48,Two year,4,2023-03-11,No
+C101013,41.0,Male,30.0,24.28,One year,0,2019-07-06,No
+C101014,58.0,Female,28.0,39.62,Month-to-month,1,2022-02-06,Yes
+C101015,51.0,Female,39.0,36.3,One year,0,2020-10-03,No
+C101016,36.0,Male,51.0,36.84,One year,2,2019-08-06,No
+C101017,30.0,Female,52.0,36.02,One year,0,2023-09-04,No
+C101018,50.0,Female,18.0,30.6,Month-to-month,0,2021-03-06,Yes
+C101019,37.0,Male,67.0,,Month-to-month,2,2021-04-04,No
+C101020,50.0,Male,32.0,39.06,Month-to-month,2,2021-05-25,Yes
+C101021,61.0,Female,53.0,39.66,Two year,5,2023-05-25,No
+C101022,67.0,Male,62.0,47.37,Month-to-month,3,2022-04-13,No
+C101023,65.0,Male,25.0,28.68,Month-to-month,6,2020-02-15,Yes
+C101024,49.0,Male,61.0,50.82,One year,0,2023-08-13,No
+C101025,21.0,Female,6.0,36.53,Month-to-month,0,2022-11-15,Yes
+C101026,29.0,Female,22.0,20.85,Two year,1,2020-02-08,No
+C101027,63.0,Female,51.0,48.68,Month-to-month,3,2019-06-05,Yes
+C101028,54.0,Female,54.0,37.28,Month-to-month,1,2023-10-07,Yes
+C101029,68.0,Male,70.0,29.29,Month-to-month,1,2023-09-09,No
+C101030,48.0,Female,30.0,27.02,Month-to-month,0,2020-10-16,No
+C101031,45.0,Female,2.0,11.76,Month-to-month,1,2023-09-28,Yes
+C101032,33.0,Female,32.0,50.6,,1,2021-08-31,Yes
+C101033,21.0,Male,56.0,56.78,One year,3,2022-05-30,No
+C101034,26.0,Male,9.0,,Month-to-month,3,2022-01-26,Yes
+C101035,60.0,Female,,3000.0,One year,N/A,2019-12-31,No
+C101036,53.0,Male,30.0,25.01,Month-to-month,1,2020-10-28,No
+C101037,33.0,Female,33.0,49.07,Month-to-month,0,2022-09-25,Yes
+C101038,40.0,Female,32.0,19.07,Two year,6,2020-12-28,Yes
+C101039,57.0,Male,38.0,8.93,Two year,2,2022-12-18,No
+C101040,41.0,Male,44.0,33.86,One year,1,2020-11-14,No
+C101041,41.0,Female,44.0,29.72,Two year,1,2022-03-23,No
+C101042,34.0,Male,30.0,24.83,Month-to-month,4,2023-02-11,No
+C101043,57.0,Female,,19.89,Month-to-month,2,2022-10-29,No
+C101044,73.0,Male,35.0,34.77,Month-to-month,3,2023-06-07,No
+C101045,34.0,Male,49.0,51.43,Month-to-month,1,2020-04-01,Yes
+C101046,36.0,Male,,15.31,Two year,0,2019-01-02,No
+C101047,47.0,Female,28.0,40.11,Month-to-month,4,2022-11-06,No
+C101048,29.0,Male,46.0,43.11,Month-to-month,2,2019-04-09,Yes
+C101049,50.0,Male,51.0,58.79,One year,0,2020-02-10,No
+C101050,72.0,male,35.0,34.86,Month-to-month,0,2020-11-23,No
+C101051,57.0,Male,34.0,,Two year,2,2021-06-29,No
+C101052,28.0,Male,43.0,58.95,Month-to-month,2,2019-01-10,No
+C101053,30.0,Male,30.0,,Month-to-month,2,2020-12-12,Yes
+C101054,22.0,Male,54.0,,Month-to-month,0,2020-02-26,No
+C101055,77.0,Male,26.0,34.9,Month-to-month,2,2020-01-19,No
+C101056,39.0,Male,7.0,16.99,One year,0,2020-04-22,Yes
+C101057,35.0,Female,36.0,12.92,Month-to-month,2,2020-04-08,Yes
+C101058,71.0,Female,65.0,59.82,,1,2021-04-12,No
+C101059,36.0,Male,20.0,,One year,3,2023-05-12,No
+C101060,32.0,Female,23.0,20.81,One year,1,2022-11-07,No
+C101061,33.0,Male,18.0,28.79,Month-to-month,1,2019-04-21,Yes
+C101062,42.0,male,66.0,24.2,Month-to-month,3,2020-05-25,No
+C101063,22.0,Male,11.0,,Month-to-month,1,2021-06-03,Yes
+C101064,57.0,Male,32.0,24.6,Month-to-month,1,2019-04-30,No
+C101065,44.0,Female,32.0,24.4,Month-to-month,2,2021-05-18,Yes
+C101066,78.0,Male,41.0,33.02,Month-to-month,3,2023-08-22,No
+C101067,65.0,Female,21.0,,Two year,2,2019-07-20,Yes
+C101068,,Female,55.0,31.76,Month-to-month,3,2020-04-30,No
+C101069,61.0,Female,60.0,42.93,One year,N/A,2019-05-31,No
+C101070,68.0,Female,31.0,35.32,One year,0,2020-10-13,No
+C101071,30.0,Female,61.0,27.46,Month-to-month,2,2021-02-25,No
+C101072,27.0,Female,9.0,39.98,Month-to-month,5,2021-05-03,Yes
+C101073,26.0,Male,25.0,33.07,Month-to-month,1,2020-10-06,Yes
+C101074,20.0,Male,63.0,64.54,Month-to-month,1,2021-08-24,No
+C101075,37.0,Female,44.0,37.75,Month-to-month,1,2020-04-10,No
+C101076,67.0,Female,13.0,24.07,Two year,1,2023-02-22,No
+C101077,65.0,Male,,26.1,Month-to-month,1,2020-04-04,No
+C101078,41.0,Female,63.0,40.06,Month-to-month,1,2020-03-30,No
+C101079,48.0,Female,26.0,20.13,One year,1,2020-02-17,No
+C101080,65.0,Female,14.0,31.26,Month-to-month,1,2022-03-15,Yes
+C101081,75.0,Female,40.0,30.81,Month-to-month,0,2022-02-22,No
+C101082,35.0,Female,42.0,24.48,Month-to-month,3,2022-09-18,No
+C101083,58.0,Male,32.0,38.86,Month-to-month,1,2023-10-26,Yes
+C101084,54.0,Male,51.0,42.52,One year,0,2019-05-31,No
+C101085,56.0,Female,47.0,28.17,Month-to-month,1,2020-07-05,No
+C101086,67.0,Female,56.0,48.42,Month-to-month,3,2023-03-11,No
+C101087,65.0,Female,69.0,37.72,One year,2,2020-12-20,No
+C101088,180.0,Female,54.0,33.11,Month-to-month,0,2020-04-25,No
+C101089,999.0,Male,10.0,24.24,Two year,0,2022-06-09,No
+C101090,21.0,Female,1.0,27.77,Month-to-month,4,2021-08-18,Yes
+C101091,39.0,Male,69.0,,Month-to-month,2,2020-07-06,No
+C101092,31.0,Female,58.0,35.8,Month-to-month,2,2022-11-26,No
+C101093,33.0,Female,48.0,49.7,Month-to-month,1,2019-08-16,Yes
+C101094,73.0,Female,18.0,40.4,One year,1,2021-05-18,No
+C101095,45.0,Female,57.0,34.51,,2,2022-03-14,No
+C101096,22.0,Female,8.0,53.5,Month-to-month,1,2022-09-30,Yes
+C101097,48.0,Female,46.0,33.37,One year,1,2020-09-30,No
+C101098,22.0,Male,27.0,46.91,Month-to-month,4,2019-09-01,Yes
+C101099,26.0,Male,62.0,62.44,Month-to-month,2,2019-01-07,No
+C101100,41.0,Female,49.0,37.62,Month-to-month,1,2023-09-15,No
+C101101,45.0,Female,24.0,51.35,Month-to-month,0,2020-08-14,Yes
+C101102,32.0,Female,57.0,39.53,Month-to-month,1,2021-04-10,No
+C101103,57.0,Male,51.0,23.32,One year,1,2023-05-02,No
+C101104,48.0,Female,,,One year,1,2022-05-24,No
+C101105,26.0,Female,19.0,36.58,Two year,2,2019-04-06,Yes
+C101106,68.0,Male,28.0,25.36,One year,4,2019-09-26,No
+C101107,26.0,Female,37.0,16.18,Two year,1,2023-05-24,No
+C101108,40.0,Male,20.0,36.01,One year,1,2022-05-21,No
+C101109,28.0,Female,49.0,57.88,Month-to-month,3,2022-01-11,No
+C101110,76.0,Male,38.0,3000.0,Month-to-month,1,2023-04-22,No
+C101111,35.0,Female,15.0,34.28,Month-to-month,0,2023-02-08,Yes
+C101112,71.0,Female,50.0,51.91,Month-to-month,1,2022-09-07,Yes
+C101113,77.0,Male,5.0,21.04,Month-to-month,0,2021-10-06,Yes
+C101114,31.0,Male,66.0,,,0,2023-07-23,No
+C101115,19.0,Female,57.0,44.66,One year,0,2022-07-03,No
+C101116,18.0,Female,7.0,33.56,,0,2019-06-05,No
+C101117,29.0,Male,58.0,62.97,Month-to-month,3,2023-05-15,Yes
+C101118,42.0,Female,24.0,31.11,Month-to-month,0,2019-10-06,Yes
+C101119,28.0,Male,48.0,1200.0,Month-to-month,6,2019-11-06,No
+C101120,77.0,Male,17.0,28.71,Two year,3,2022-09-21,Yes
+C101121,47.0,Male,23.0,,Month-to-month,0,2019-07-18,Yes
+C101122,70.0,Female,2.0,12.41,Month-to-month,0,2019-02-20,Yes
+C101123,18.0,Male,47.0,53.44,One year,1,2021-10-25,No
+C101124,26.0,Female,42.0,43.55,Month-to-month,1,2022-01-15,No
+C101125,46.0,Female,6.0,6.1,Two year,2,2021-05-12,No
+C101126,28.0,Male,20.0,29.89,Month-to-month,1,2020-09-11,Yes
+C101127,999.0,Female,48.0,67.09,Month-to-month,1,2021-07-25,Yes
+C101128,,Male,57.0,36.95,Month-to-month,0,2021-06-23,No
+C101129,,Male,41.0,34.53,Month-to-month,3,2020-10-09,Yes
+C101130,65.0,Male,12.0,29.7,One year,2,2021-03-27,No
+C101131,67.0,Female,,39.59,Month-to-month,0,2023-10-30,No
+C101132,49.0,Male,16.0,12.55,Month-to-month,0,2022-11-12,No
+C101133,29.0,Female,32.0,41.38,One year,1,2021-12-23,No
+C101134,45.0,Female,35.0,31.91,Month-to-month,2,2019-02-18,No
+C101135,,Female,16.0,32.8,Two year,4,2022-01-04,Yes
+C101136,27.0,Male,58.0,45.95,,0,2023-06-29,No
+C101137,43.0,Female,52.0,23.97,One year,2,2019-02-21,No
+C101138,69.0,Male,8.0,,,1,2021-09-22,No
+C101139,43.0,Female,33.0,40.95,Two year,1,2020-05-12,No
+C101140,47.0,Female,9.0,26.4,Month-to-month,1,2022-12-20,Yes
+C101141,68.0,Male,,29.81,,3,2020-05-23,No
+C101142,59.0,Female,28.0,32.47,Month-to-month,1,2021-05-14,No
+C101143,27.0,Female,26.0,43.89,Month-to-month,0,2023-11-22,Yes
+C101144,55.0,Male,18.0,33.78,Month-to-month,0,2019-05-29,Yes
+C101145,75.0,Male,7.0,,Month-to-month,0,2019-09-05,No
+C101146,31.0,Male,10.0,,Month-to-month,2,2020-01-22,Yes
+C101147,73.0,Male,39.0,30.11,Month-to-month,1,2021-06-28,No
+C101148,54.0,Male,52.0,24.5,One year,0,2019-11-13,No
+C101149,59.0,Female,45.0,35.66,Month-to-month,5,2022-08-09,No
+C101150,38.0,Female,17.0,25.45,Month-to-month,2,2020-05-19,No
+C101151,21.0,Male,66.0,50.7,Month-to-month,N/A,2022-01-23,No
+C101152,19.0,Female,47.0,53.06,Month-to-month,1,2020-03-06,No
+C101153,59.0,Male,64.0,25.01,One year,3,2022-10-03,No
+C101154,78.0,Male,,19.76,Month-to-month,4,2021-05-31,Yes
+C101155,55.0,Female,5.0,25.81,One year,4,2020-10-12,Yes
+C101156,40.0,Female,5.0,24.34,Month-to-month,4,2022-07-26,Yes
+C101157,65.0,Male,55.0,47.26,Month-to-month,2,2019-10-21,No
+C101158,76.0,FEMALE,27.0,16.09,Two year,0,2021-12-18,No
+C101159,31.0,Male,19.0,,Month-to-month,3,2020-02-15,No
+C101160,24.0,Male,43.0,50.29,Month-to-month,4,2020-04-11,Yes
+C101161,77.0,Male,50.0,39.55,Month-to-month,2,2021-09-16,Yes
+C101162,20.0,Female,32.0,65.8,Month-to-month,3,2022-06-05,Yes
+C101163,72.0,Male,27.0,34.27,Month-to-month,2,2021-07-24,No
+C101164,,Male,28.0,34.66,Two year,2,2019-09-08,No
+C101165,25.0,Female,23.0,49.96,Month-to-month,1,2021-01-01,Yes
+C101166,35.0,Female,27.0,19.64,One year,3,2023-03-28,No
+C101167,37.0,Male,35.0,15.64,Month-to-month,2,2023-07-13,No
+C101168,38.0,Male,24.0,53.29,Two year,0,2020-11-01,Yes
+C101169,20.0,Male,38.0,49.66,Month-to-month,1,2020-12-22,Yes
+C101170,70.0,Male,46.0,40.95,Month-to-month,3,2020-03-12,Yes
+C101171,,Female,50.0,40.64,Month-to-month,0,2020-01-18,No
+C101172,60.0,Female,1.0,38.42,One year,2,2021-09-06,Yes
+C101173,74.0,Male,46.0,36.64,Month-to-month,2,2021-12-17,Yes
+C101174,,Male,23.0,39.08,Month-to-month,4,2022-02-15,Yes
+C101175,79.0,Male,49.0,24.43,Month-to-month,3,2021-11-13,No
+C101176,41.0,Female,69.0,,One year,1,2021-11-24,No
+C101177,55.0,Female,28.0,42.67,,0,2022-11-13,Yes
+C101178,65.0,Male,8.0,37.15,Month-to-month,3,2022-07-22,Yes
+C101179,59.0,Male,49.0,39.81,One year,2,2021-10-04,No
+C101180,67.0,Male,24.0,29.46,One year,1,2022-10-26,No
+C101181,60.0,Male,25.0,29.16,Month-to-month,3,2019-01-15,Yes
+C101182,42.0,Female,44.0,26.32,,2,2023-08-18,No
+C101183,53.0,Male,,48.59,Month-to-month,2,2021-05-21,Yes
+C101184,30.0,Female,2.0,27.19,Month-to-month,1,2022-03-04,Yes
+C101185,77.0,Male,33.0,,Month-to-month,2,2019-11-28,Yes
+C101186,73.0,Male,,31.86,Two year,2,2023-02-13,No
+C101187,55.0,Male,40.0,42.48,Month-to-month,1,2020-02-27,No
+C101188,65.0,Male,,38.55,Two year,0,2021-12-14,No
+C101189,38.0,Male,2.0,28.05,Month-to-month,2,2022-10-18,Yes
+C101190,,Male,,,Month-to-month,2,2022-08-09,Yes
+C101191,,Male,,35.9,Month-to-month,3,2023-09-30,Yes
+C101192,34.0,Male,60.0,59.87,Month-to-month,0,2021-04-30,No
+C101193,19.0,Male,16.0,34.61,Two year,1,2023-04-20,Yes
+C101194,42.0,Female,9.0,21.41,Two year,5,2020-01-28,Yes
+C101195,62.0,Female,28.0,37.32,Two year,1,2020-02-28,No
+C101196,34.0,Male,,35.27,Month-to-month,3,2022-06-01,Yes
+C101197,61.0,Male,6.0,28.04,Month-to-month,2,2021-02-06,Yes
+C101198,55.0,Female,66.0,23.62,One year,0,2021-05-31,No
+C101199,44.0,Male,47.0,39.12,Two year,2,2023-03-30,No
+C101200,62.0,Male,57.0,,Month-to-month,1,2019-02-07,No
+C101201,70.0,Male,64.0,30.95,Two year,4,2023-02-23,No
+C101202,76.0,Female,46.0,39.28,Month-to-month,2,2021-02-02,No
+C101203,64.0,Male,26.0,24.84,One year,3,2019-04-15,No
+C101204,23.0,Male,1.0,43.4,Month-to-month,0,2020-11-19,Yes
+C101205,38.0,Male,8.0,53.88,,1,2020-05-16,Yes
+C101206,50.0,Male,23.0,34.67,Two year,1,2023-02-01,No
+C101207,22.0,Female,45.0,55.73,Month-to-month,1,2021-12-02,Yes
+C101208,43.0,Female,,25.14,Month-to-month,0,2022-06-03,No
+C101209,26.0,Female,10.0,31.57,Month-to-month,1,2019-12-19,Yes
+C101210,999.0,Male,19.0,15.06,Month-to-month,1,2019-01-06,No
+C101211,,Female,64.0,48.87,,1,2019-02-06,No
+C101212,34.0,Female,21.0,15.38,Month-to-month,2,2021-01-22,Yes
+C101213,36.0,FEMALE,9.0,16.1,Month-to-month,1,2020-02-02,No
+C101214,78.0,Female,18.0,23.31,Month-to-month,2,2022-10-14,No
+C101215,45.0,Female,26.0,17.79,Month-to-month,0,2021-09-01,No
+C101216,52.0,Female,36.0,16.61,Two year,1,2022-01-06,No
+C101217,75.0,FEMALE,36.0,17.19,Month-to-month,2,2022-07-10,Yes
+C101218,18.0,Female,8.0,41.94,Two year,1,2023-06-01,Yes
+C101219,35.0,Female,9.0,23.3,Month-to-month,4,2022-08-21,Yes
+C101220,44.0,Male,15.0,34.76,Month-to-month,0,2021-11-14,No
+C101221,73.0,Female,23.0,37.34,Two year,1,2021-10-15,Yes
+C101222,62.0,Male,69.0,37.29,Month-to-month,2,2019-09-29,No
+C101223,60.0,Male,20.0,32.7,Month-to-month,4,2021-12-13,Yes
+C101224,41.0,Male,26.0,13.39,Month-to-month,0,2022-11-20,No
+C101225,70.0,Female,,58.13,Two year,2,2021-07-26,No
+C101226,29.0,Female,25.0,54.45,Month-to-month,0,2019-05-02,Yes
+C101227,43.0,Female,71.0,39.15,,0,2022-11-30,No
+C101228,40.0,Male,,18.87,Month-to-month,1,2022-02-20,No
+C101229,18.0,Female,26.0,46.6,Month-to-month,3,2022-03-16,Yes
+C101230,23.0,Male,55.0,32.8,Two year,2,2019-03-26,No
+C101231,,Female,57.0,29.31,Month-to-month,1,2022-05-13,No
+C101232,76.0,Female,47.0,41.59,One year,1,2019-02-17,No
+C101233,33.0,Male,10.0,23.75,,1,2023-06-14,Yes
+C101234,22.0,Female,21.0,36.39,Month-to-month,2,2020-11-19,No
+C101235,26.0,Female,42.0,57.11,,0,2019-07-31,No
+C101236,21.0,Male,27.0,32.71,Month-to-month,1,2019-02-19,No
+C101237,67.0,Male,31.0,32.15,Month-to-month,3,2019-03-10,Yes
+C101238,21.0,Male,21.0,36.32,Month-to-month,2,2023-10-23,Yes
+C101239,60.0,Male,21.0,17.83,Month-to-month,0,2021-08-15,No
+C101240,67.0,Male,35.0,,Month-to-month,1,2019-03-01,No
+C101241,31.0,Female,59.0,27.77,One year,4,2021-03-14,No
+C101242,32.0,Male,26.0,,Month-to-month,2,2019-09-21,No
+C101243,34.0,Female,53.0,30.05,Two year,5,2023-06-23,No
+C101244,65.0,Male,70.0,60.9,Month-to-month,5,2020-05-02,No
+C101245,76.0,Male,10.0,12.06,Month-to-month,0,2020-07-09,No
+C101246,64.0,Male,66.0,45.86,Month-to-month,1,2023-09-27,No
+C101247,34.0,Female,21.0,14.3,Month-to-month,1,2022-05-02,No
+C101248,62.0,Male,7.0,8.69,Month-to-month,0,2021-05-05,Yes
+C101249,61.0,Male,59.0,39.3,One year,2,2022-06-05,No
+C101250,44.0,Female,1.0,27.08,Two year,1,2021-03-13,No
+C101251,26.0,Male,71.0,43.56,Month-to-month,1,2020-03-05,No
+C101252,37.0,Female,15.0,36.34,Two year,1,2019-10-06,No
+C101253,68.0,Male,44.0,25.22,Month-to-month,1,2019-01-16,No
+C101254,49.0,Male,18.0,26.71,Month-to-month,3,2020-07-17,Yes
+C101255,25.0,Female,62.0,57.4,Month-to-month,0,2021-01-23,No
+C101256,74.0,Male,51.0,41.25,Two year,2,2023-06-12,No
+C101257,49.0,Male,70.0,23.02,Month-to-month,2,2019-12-30,No
+C101258,39.0,Female,57.0,53.29,One year,0,2021-02-06,No
+C101259,20.0,Female,53.0,56.52,Month-to-month,0,2019-12-10,Yes
+C101260,53.0,Male,68.0,36.14,One year,2,2019-10-02,No
+C101261,52.0,Male,46.0,23.56,Month-to-month,1,2021-04-08,No
+C101262,27.0,Female,16.0,22.86,Month-to-month,1,2020-06-21,No
+C101263,70.0,Male,16.0,11.19,One year,1,2019-11-19,No
+C101264,49.0,Female,47.0,39.55,Month-to-month,2,2021-12-30,Yes
+C101265,23.0,Male,27.0,39.69,Month-to-month,0,2021-10-04,No
+C101266,30.0,Male,54.0,24.88,Two year,0,2019-01-29,No
+C101267,35.0,Male,45.0,,Month-to-month,3,2022-01-13,No
+C101268,64.0,Male,,36.54,Month-to-month,1,2019-01-30,Yes
+C101269,,Female,66.0,36.49,Month-to-month,0,2021-04-26,No
+C101270,68.0,Female,70.0,35.16,Month-to-month,4,2020-02-19,Yes
+C101271,55.0,Female,22.0,40.11,Month-to-month,4,2021-10-12,No
+C101272,74.0,Male,21.0,30.92,Month-to-month,2,2022-12-01,Yes
+C101273,37.0,Female,29.0,29.14,One year,2,2019-12-22,No
+C101274,54.0,Female,58.0,31.32,Two year,2,2020-08-24,No
+C101275,56.0,Male,2.0,5.08,One year,2,2021-11-01,No
+C101276,40.0,Female,13.0,12.19,Month-to-month,2,2019-05-12,Yes
+C101277,46.0,Female,50.0,30.2,Month-to-month,1,2023-03-17,No
+C101278,61.0,Male,30.0,,One year,1,2019-10-13,No
+C101279,71.0,Male,32.0,33.16,Two year,3,2023-03-08,No
+C101280,75.0,Female,67.0,45.62,One year,3,2020-10-28,No
+C101281,,Male,57.0,39.33,Month-to-month,1,2019-07-18,No
+C101282,62.0,Female,8.0,24.6,Month-to-month,1,2022-12-23,No
+C101283,64.0,Female,17.0,15.02,Two year,0,2020-08-07,No
+C101284,76.0,Male,19.0,4.15,Month-to-month,2,2019-12-09,No
+C101285,57.0,Male,47.0,28.89,Month-to-month,3,2022-07-15,No
+C101286,30.0,Male,31.0,19.76,Two year,2,2022-02-28,No
+C101287,63.0,Male,48.0,27.87,Month-to-month,2,2021-11-29,No
+C101288,28.0,Male,16.0,37.05,Two year,1,2019-10-19,Yes
+C101289,41.0,Female,33.0,17.46,Month-to-month,0,2020-11-26,No
+C101290,48.0,Female,26.0,,Month-to-month,0,2019-11-16,No
+C101291,62.0,FEMALE,14.0,23.2,Month-to-month,2,2023-02-08,Yes
+C101292,28.0,Female,15.0,40.66,One year,2,2021-10-26,No
+C101293,61.0,Female,29.0,22.14,Month-to-month,1,2023-05-31,No
+C101294,26.0,Male,49.0,54.68,Two year,0,2019-05-24,No
+C101295,42.0,Male,53.0,33.71,Month-to-month,0,2021-10-09,No
+C101296,25.0,Female,55.0,41.3,Two year,1,2019-05-26,No
+C101297,19.0,Male,14.0,39.61,Month-to-month,0,2020-03-25,Yes
+C101298,38.0,Female,42.0,51.42,,2,2023-01-12,No
+C101299,,Male,7.0,950.0,Month-to-month,2,2023-09-29,No
+C101300,52.0,Male,10.0,34.66,One year,1,2023-01-09,No
+C101301,62.0,Male,33.0,43.68,Month-to-month,3,2021-05-14,Yes
+C101302,32.0,Female,50.0,49.98,One year,0,2022-07-11,No
+C101303,30.0,Male,17.0,16.87,Month-to-month,0,2020-09-14,No
+C101304,74.0,Female,13.0,44.05,One year,1,2022-07-16,No
+C101305,63.0,Male,57.0,38.26,Two year,1,2019-08-17,No
+C101306,48.0,Male,43.0,30.36,Month-to-month,1,2019-08-31,No
+C101307,35.0,Male,59.0,35.4,Month-to-month,2,2023-08-24,No
+C101308,71.0,Female,7.0,28.12,Two year,4,2023-08-10,No
+C101309,47.0,Male,68.0,40.91,Two year,2,2022-05-27,No
+C101310,21.0,Male,58.0,50.63,Two year,0,2019-03-02,No
+C101311,71.0,Male,60.0,50.84,Month-to-month,N/A,2019-05-09,No
+C101312,43.0,Female,8.0,15.17,One year,2,2019-12-08,No
+C101313,45.0,Female,,23.37,Month-to-month,1,2019-11-23,No
+C101314,41.0,Male,39.0,39.63,Month-to-month,0,2023-09-07,No
+C101315,35.0,Female,14.0,31.24,One year,2,2023-07-22,No
+C101316,55.0,Female,66.0,50.74,Month-to-month,2,2023-12-02,No
+C101317,36.0, Male ,59.0,,Month-to-month,1,2019-05-17,No
+C101318,49.0,Female,59.0,48.51,Month-to-month,1,2023-03-22,No
+C101319,22.0,Male,52.0,55.42,Month-to-month,1,2022-05-01,Yes
+C101320,69.0,Male,13.0,41.53,Month-to-month,0,2021-07-02,Yes
+C101321,31.0,Female,54.0,23.72,One year,N/A,2021-10-21,No
+C101322,55.0,Female,33.0,32.08,Month-to-month,2,2019-06-24,No
+C101323,34.0,Female,50.0,32.22,Two year,2,2021-06-19,No
+C101324,29.0,Male,43.0,32.0,Two year,0,2020-07-18,No
+C101325,,Female,,45.55,Two year,1,2022-05-29,No
+C101326,61.0,Female,,,One year,3,2023-05-27,No
+C101327,21.0,Male,22.0,36.91,Month-to-month,3,2020-08-28,Yes
+C101328,67.0,Male,48.0,27.17,Month-to-month,2,2022-06-02,No
+C101329,46.0,Male,48.0,43.08,Month-to-month,1,2022-01-31,No
+C101330,46.0,Female,21.0,36.19,Month-to-month,0,2020-09-18,No
+C101331,31.0,male,37.0,40.97,Month-to-month,0,2023-04-28,No
+C101332,40.0,Female,,26.5,Two year,2,2019-10-21,No
+C101333,63.0,Male,24.0,,Two year,2,2021-10-27,No
+C101334,,Female,13.0,,One year,1,2022-11-13,No
+C101335,75.0,Female,24.0,20.64,Month-to-month,1,2021-08-02,No
+C101336,56.0,Male,60.0,30.51,Two year,1,2022-01-04,No
+C101337,34.0,Male,12.0,31.88,Two year,2,2022-01-05,Yes
+C101338,22.0,Male,28.0,59.02,Month-to-month,0,2019-12-18,No
+C101339,53.0,Female,35.0,18.98,Month-to-month,1,2019-12-02,No
+C101340,52.0,Male,57.0,11.12,Month-to-month,0,2023-01-23,No
+C101341,49.0,Female,27.0,13.6,Month-to-month,1,2020-08-23,Yes
+C101342,50.0,Male,71.0,31.18,Two year,1,2022-08-08,No
+C101343,22.0,Female,30.0,42.62,Month-to-month,2,2022-07-13,Yes
+C101344,42.0,Female,33.0,36.06,Month-to-month,1,2023-07-15,No
+C101345,25.0,Male,61.0,51.83,Month-to-month,3,2021-10-19,Yes
+C101346,71.0,Male,33.0,,Two year,2,2021-05-20,No
+C101347,72.0,Male,49.0,36.23,Month-to-month,3,2019-08-01,Yes
+C101348,69.0,Female,26.0,18.18,One year,2,2022-01-23,No
+C101349,47.0,Female,49.0,34.23,Month-to-month,0,2023-04-12,No
+C101350,67.0,Female,43.0,26.48,One year,2,2023-04-19,No
+C101351,67.0,Male,70.0,67.8,Two year,2,2021-01-10,No
+C101352,,Male,29.0,36.87,Two year,0,2023-01-20,No
+C101353,22.0,Male,,31.45,Two year,4,2020-03-20,No
+C101354,70.0,Male,10.0,13.03,Month-to-month,1,2021-11-17,Yes
+C101355,54.0,Female,37.0,26.72,Month-to-month,1,2019-09-27,No
+C101356,45.0,Female,36.0,14.35,Month-to-month,2,2023-11-12,No
+C101357,71.0,Female,7.0,14.8,Month-to-month,2,2023-07-23,Yes
+C101358,76.0,FEMALE,1.0,12.92,Month-to-month,2,2020-05-28,Yes
+C101359,71.0,Female,28.0,37.24,One year,1,2022-08-08,Yes
+C101360,18.0,Female,3.0,31.63,Month-to-month,1,2022-04-10,Yes
+C101361,18.0,Female,68.0,3000.0,Month-to-month,1,2020-07-11,No
+C101362,48.0,Female,57.0,23.7,One year,0,2021-11-05,No
+C101363,50.0,Female,7.0,,One year,3,2019-12-13,No
+C101364,32.0,Male,56.0,36.14,Two year,1,2023-08-11,No
+C101365,40.0,Male,54.0,34.05,Month-to-month,2,2023-03-13,No
+C101366,53.0,Female,52.0,46.94,Month-to-month,0,2019-02-01,Yes
+C101367,65.0,Male,,32.31,Two year,0,2019-09-22,No
+C101368,64.0,Male,51.0,45.89,Month-to-month,1,2019-03-23,No
+C101369,22.0,Female,,48.67,One year,3,2021-07-28,No
+C101370,41.0,Female,52.0,35.55,Month-to-month,1,2020-12-17,No
+C101371,34.0,Male,57.0,17.02,Month-to-month,0,2022-04-17,No
+C101372,35.0,Female,42.0,,One year,2,2022-02-16,No
+C101373,68.0,FEMALE,32.0,37.01,One year,1,2023-08-16,No
+C101374,44.0,Male,41.0,46.28,One year,2,2022-02-11,No
+C101375,47.0,Male,26.0,29.86,Month-to-month,1,2022-05-20,No
+C101376,78.0,Female,29.0,,One year,0,2022-03-28,No
+C101377,46.0,Male,,26.72,Month-to-month,4,2019-07-13,Yes
+C101378,64.0,Male,54.0,32.49,Month-to-month,2,2019-04-09,No
+C101379,78.0,Female,14.0,17.57,Month-to-month,3,2021-07-25,No
+C101380,78.0,Male,31.0,39.05,Month-to-month,1,2019-04-25,No
+C101381,37.0,Male,22.0,30.03,Month-to-month,1,2023-06-29,No
+C101382,43.0,Female,11.0,20.96,,0,2019-11-20,No
+C101383,20.0,Female,22.0,38.32,Month-to-month,2,2020-05-01,Yes
+C101384,64.0,Female,22.0,32.17,,2,2021-10-20,No
+C101385,42.0,Male,71.0,44.53,Month-to-month,4,2019-06-08,No
+C101386,18.0,Female,28.0,35.08,Two year,2,2022-03-21,Yes
+C101387,27.0,Female,24.0,,Two year,1,2019-04-16,Yes
+C101388,29.0,Female,29.0,46.27,Month-to-month,2,2021-11-16,No
+C101389,23.0,Male,17.0,40.2,Month-to-month,2,2023-02-10,Yes
+C101390,999.0,Male,65.0,69.27,Month-to-month,1,2022-12-04,Yes
+C101391,53.0,Female,67.0,50.34,Month-to-month,6,2023-08-08,No
+C101392,32.0,Female,28.0,27.52,Month-to-month,1,2022-10-16,No
+C101393,77.0,Female,10.0,,Month-to-month,1,2021-04-10,Yes
+C101394,53.0,Male,2.0,9.9,Month-to-month,1,2020-08-17,Yes
+C101395,53.0,Male,69.0,,Month-to-month,4,2020-07-05,No
+C101396,50.0,Female,60.0,15.4,One year,0,2020-11-18,No
+C101397,58.0,Male,61.0,50.5,Month-to-month,0,2020-12-16,No
+C101398,66.0,Male,42.0,13.62,Two year,3,2020-12-10,No
+C101399,38.0,Male,46.0,40.61,Two year,5,2019-11-17,No
+C101400,56.0,Male,55.0,28.19,Month-to-month,4,2019-05-09,Yes
+C101401,53.0,Male,31.0,19.51,One year,2,2021-02-24,No
+C101402,,Female,59.0,35.75,Two year,0,2022-03-04,No
+C101403,64.0,Female,15.0,27.16,Month-to-month,3,2021-04-29,Yes
+C101404,65.0,Male,32.0,35.72,One year,4,2021-06-17,No
+C101405,54.0,Female,8.0,40.12,Month-to-month,0,2021-08-18,Yes
+C101406,22.0,Female,56.0,,Month-to-month,4,2019-08-09,Yes
+C101407,67.0,Female,8.0,31.21,Month-to-month,1,2019-07-09,No
+C101408,,Male,36.0,24.82,Month-to-month,3,2022-11-12,No
+C101409,52.0,Female,,34.64,One year,3,2023-10-20,No
+C101410,,Female,71.0,42.83,Month-to-month,1,2022-03-04,No
+C101411,30.0,Female,29.0,24.07,Month-to-month,0,2022-01-31,No
+C101412,46.0,Female,11.0,,Two year,2,2023-01-30,No
+C101413,54.0,Male,,39.18,Month-to-month,1,2021-10-27,No
+C101414,,Female,40.0,33.91,Month-to-month,1,2022-06-06,No
+C101415,48.0,Male,39.0,35.71,Two year,0,2023-01-27,No
+C101416,29.0,Female,45.0,43.41,One year,0,2023-09-04,No
+C101417,28.0,Female,71.0,,One year,1,2019-03-29,No
+C101418,51.0,Female,2.0,28.07,,2,2023-10-11,Yes
+C101419,56.0,Female,52.0,18.63,One year,4,2021-11-21,No
+C101420,,Male,33.0,23.72,Month-to-month,1,2023-10-29,No
+C101421,68.0,Male,11.0,38.83,Month-to-month,0,2020-10-26,No
+C101422,53.0,Female,65.0,12.43,Month-to-month,1,2020-10-05,No
+C101423,26.0,Female,40.0,,Month-to-month,3,2022-02-27,Yes
+C101424,69.0,Female,65.0,46.38,Two year,3,2021-07-09,No
+C101425,51.0,Female,12.0,7.1,One year,2,2023-08-16,Yes
+C101426,70.0,Male,48.0,60.38,Two year,1,2019-09-07,No
+C101427,63.0,Male,3.0,,Month-to-month,2,2019-05-06,Yes
+C101428,37.0,FEMALE,70.0,55.37,Month-to-month,0,2019-06-01,No
+C101429,42.0,Male,68.0,55.97,Month-to-month,2,2019-11-08,No
+C101430,43.0,Female,63.0,48.06,Month-to-month,1,2019-12-21,No
+C101431,34.0,Female,24.0,24.98,Month-to-month,0,2020-09-24,No
+C101432,65.0,Male,50.0,38.57,Month-to-month,3,2023-01-20,Yes
+C101433,41.0,FEMALE,14.0,15.23,Month-to-month,3,2021-08-18,No
+C101434,61.0,Female,60.0,,Month-to-month,1,2021-07-05,No
+C101435,51.0,Female,8.0,,Two year,0,2023-01-31,No
+C101436,43.0,Female,53.0,33.16,Month-to-month,0,2019-04-26,No
+C101437,60.0,Male,47.0,44.06,Two year,2,2022-08-13,No
+C101438,28.0,Female,21.0,30.16,Month-to-month,0,2023-05-11,No
+C101439,,Male,33.0,26.26,Month-to-month,1,2021-09-15,No
+C101440,27.0,Female,34.0,46.84,Two year,1,2020-01-07,No
+C101441,24.0,Male,1.0,21.88,Month-to-month,1,2019-12-14,No
+C101442,, Male ,4.0,32.84,Month-to-month,1,2021-08-15,Yes
+C101443,68.0,Male,51.0,38.71,Month-to-month,1,2021-06-25,No
+C101444,59.0,Male,49.0,19.54,Month-to-month,1,2022-12-28,No
+C101445,75.0,Female,19.0,25.23,Month-to-month,2,2021-03-03,No
+C101446,55.0,Male,32.0,21.85,One year,0,2019-09-18,No
+C101447,24.0,Male,56.0,45.22,One year,2,2019-07-23,No
+C101448,41.0,Male,,,Month-to-month,1,2020-07-19,No
+C101449,33.0,Female,35.0,23.4,Month-to-month,0,2023-07-05,No
+C101450,62.0,Male,62.0,48.25,Month-to-month,2,2019-11-29,No
+C101451,28.0,Male,39.0,39.65,Two year,1,2023-02-23,No
+C101452,55.0,Female,1.0,30.12,Month-to-month,4,2021-08-15,Yes
+C101453,70.0,Female,33.0,29.46,Month-to-month,2,2022-01-09,Yes
+C101454,29.0,Female,18.0,48.96,One year,1,2022-08-18,Yes
+C101455,74.0,Male,48.0,28.99,Month-to-month,4,2020-03-20,No
+C101456,61.0,Female,8.0,17.35,Two year,0,2020-07-31,No
+C101457,20.0,Female,71.0,44.78,Two year,0,2021-11-04,No
+C101458,51.0,Female,44.0,38.98,Month-to-month,0,2022-07-31,No
+C101459,38.0,Female,57.0,46.48,One year,0,2020-08-04,No
+C101460,61.0,Male,33.0,51.09,Month-to-month,1,2020-02-16,Yes
+C101461,29.0,Female,5.0,49.41,Two year,5,2022-03-12,Yes
+C101462,48.0,Female,31.0,31.8,Month-to-month,1,2019-09-17,No
+C101463,47.0,Male,36.0,28.69,Month-to-month,0,2019-03-09,No
+C101464,48.0,Female,30.0,32.89,Month-to-month,0,2021-02-11,Yes
+C101465,75.0,Male,17.0,24.82,Month-to-month,1,2021-12-21,No
+C101466,76.0,Female,15.0,39.13,Month-to-month,2,2020-08-16,No
+C101467,22.0,Male,8.0,46.84,Two year,5,2021-10-04,Yes
+C101468,66.0,Male,36.0,22.43,One year,1,2020-05-09,No
+C101469,28.0,Female,14.0,32.32,One year,5,2023-07-24,Yes
+C101470,27.0,Female,45.0,62.17,One year,2,2021-10-07,No
+C101471,48.0,Female,18.0,28.48,Month-to-month,0,2021-10-24,Yes
+C101472,78.0,Male,31.0,26.98,Two year,2,2023-05-01,Yes
+C101473,50.0,Female,69.0,52.56,One year,5,2022-11-09,No
+C101474,54.0,Female,38.0,27.52,Month-to-month,2,2022-03-14,No
+C101475,64.0,Female,53.0,33.1,Month-to-month,0,2020-02-04,Yes
+C101476,,Male,49.0,30.09,Month-to-month,2,2023-07-06,No
+C101477,45.0,Male,61.0,3000.0,Month-to-month,1,2021-09-21,No
+C101478,61.0,Male,4.0,,Month-to-month,1,2021-05-12,Yes
+C101479,26.0,Female,50.0,37.91,Month-to-month,1,2020-08-05,No
+C101480,72.0,Male,17.0,,Two year,0,2020-09-07,No
+C101481,39.0,Female,23.0,19.46,Month-to-month,1,2023-11-09,No
+C101482,54.0,Female,65.0,46.77,Month-to-month,1,2020-12-05,No
+C101483,78.0,Female,28.0,27.71,Month-to-month,5,2023-09-20,Yes
+C101484,65.0,Male,37.0,31.25,One year,3,2023-11-26,No
+C101485,250.0,Female,32.0,12.81,One year,0,2020-03-17,No
+C101486,68.0,Male,8.0,,Month-to-month,1,2021-11-07,Yes
+C101487,25.0,Male,21.0,26.54,Two year,2,2022-01-27,Yes
+C101488,45.0,Female,11.0,26.37,Month-to-month,5,2023-03-23,Yes
+C101489,68.0,Female,30.0,32.67,Month-to-month,1,2019-05-09,Yes
+C101490,34.0,Male,1.0,20.13,One year,1,2020-01-01,Yes
+C101491,37.0,Female,55.0,56.93,Month-to-month,4,2021-09-13,Yes
+C101492,72.0,Male,39.0,36.98,Two year,1,2023-05-02,No
+C101493,66.0,Female,6.0,27.76,Month-to-month,5,2023-11-09,Yes
+C101494,33.0,Female,71.0,42.72,Month-to-month,2,2022-04-23,No
+C101495,18.0,Male,20.0,39.07,One year,1,2019-09-09,No
+C101496,47.0,Male,25.0,37.16,Two year,1,2020-02-10,No
+C101497,72.0,Female,35.0,41.51,Two year,5,2022-08-06,No
+C101498,51.0,Male,38.0,18.39,Month-to-month,2,2022-08-07,No
+C101499,28.0,Female,49.0,60.24,Month-to-month,0,2021-07-16,No
+C100091,63.0,Male,41.0,48.15,One year,2,2022-12-01,No
+C100075,18.0,Female,8.0,32.83,Month-to-month,2,2020-01-05,Yes
+C101264,49.0,Female,47.0,39.55,Month-to-month,2,2021-12-30,Yes
+C100330,74.0,Male,49.0,41.48,Two year,1,2019-04-11,No
+C101349,47.0,Female,49.0,34.23,Month-to-month,0,2023-04-12,No
+C100774,24.0,Male,32.0,47.92,Month-to-month,1,2021-05-10,No
+C101038,40.0,Female,32.0,19.07,Two year,6,2020-12-28,Yes
+C101285,57.0,Male,47.0,28.89,Month-to-month,3,2022-07-15,No
+C101165,25.0,Female,23.0,49.96,Month-to-month,1,2021-01-01,Yes
+C100335,58.0,Male,70.0,43.47,One year,3,2022-08-16,No
+C100685,62.0,Male,59.0,3000.0,Month-to-month,0,2023-07-30,No
+C100181,20.0,Male,3.0,38.04,Month-to-month,2,2022-11-12,Yes
+C101220,44.0,Male,15.0,34.76,Month-to-month,0,2021-11-14,No
+C100101,40.0,Female,71.0,61.16,Month-to-month,2,2020-12-01,No
+C100692,35.0,Female,31.0,26.49,Month-to-month,1,2022-10-14,No
+C101126,28.0,Male,20.0,29.89,Month-to-month,1,2020-09-11,Yes
+C100169,72.0,Male,,26.12,One year,2,2023-10-27,Yes
+C100926,21.0,Male,51.0,33.74,Two year,3,2023-05-21,No
+C101295,42.0,Male,53.0,33.71,Month-to-month,0,2021-10-09,No
+C100414,47.0,Male,35.0,27.87,Month-to-month,1,2023-08-09,No

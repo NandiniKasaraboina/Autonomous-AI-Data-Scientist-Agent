@@ -1,0 +1,15 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+pandas>=2.1
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.3
+joblib>=1.3
+openpyxl>=3.1
+xlrd>=2.0.1
+matplotlib>=3.8
+reportlab>=4.0
+# Deep learning (denoising autoencoder used during preprocessing).
+# CPU build is enough:  pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch>=2.1
